@@ -1,5 +1,5 @@
 baseURL: "https://pascalmichaillat.org/" 
-title: Pascal Michaillat
+title: Tim Schütz
 paginate: 20
 theme: PaperMod
 
@@ -7,7 +7,7 @@ enableInlineShortcodes: true
 enableRobotsTXT: true
 
 social:
-    twitter: pmichaillat
+    twitter: tmschtz
 
 taxonomies:
     tag: tags
@@ -20,20 +20,24 @@ menu:
         - name: Courses
           url: /courses/
           weight: 2
-        - name: Design
+        - name: Projects
           url: /design/
           weight: 3
-        - name: Tags
-          url: /tags/
           weight: 4     
         - name: Newsletter
           url: https://pmichaillat.substack.com
           weight: 5
+        - name: Talks
+          url: https://pmichaillat.substack.com
+          weight: 6
+        - name: CV
+          url: https://pmichaillat.substack.com
+          weight: 7
 
 params:
     description: "I am an Associate Professor of Economics at Brown University. I work on unemployment, economic slack, business cycles, macroeconomic policy, metascience."
-    author: Pascal Michaillat
-    googleAnalyticsID: "G-97G4MZ4061"
+    author: Tim Schütz
+    googleAnalyticsID: ""
     DateFormat: "January 2006"
     defaultTheme: light
     hideFooter: true
@@ -55,12 +59,12 @@ params:
     math: true
     profileMode:
           enabled: true
-          title: Pascal Michaillat
-          subtitle: "I am an Associate Professor of Economics at Brown University. I work on unemployment, economic slack, business cycles, macroeconomic policy, and science-related topics. In January–June 2023, I am visiting the University of California–San Diego."
+          title: Tim Schütz
+          subtitle: "I am a PhD student at the University of California, Irvine. I work on unemployment, economic slack, business cycles, macroeconomic policy, and science-related topics. In January–June 2023, I am visiting the University of California–San Diego."
           imageUrl: "/picture.jpeg"
           imageWidth: 170
           imageHeight: 170
-          imageTitle: Pascal Michaillat
+          imageTitle: Tim Schütz
           buttons:
             - name: Papers
               url: /papers/
@@ -68,6 +72,10 @@ params:
               url: /courses/
             - name: Design
               url: /design/
+            - name: Talks
+              url: /talks/
+            - name: Projects
+              url: /projects/
     socialIcons:
         - name: CV
           url: "/cv.pdf"
@@ -93,7 +101,7 @@ params:
         hiddenInList: true
         hiddenInSingle: true
     label:
-      text: "Pascal Michaillat"
+      text: "Tim Schütz"
       icon: /favicon.ico
       iconHeight: 18
 
