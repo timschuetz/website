@@ -1,0 +1,109 @@
+baseURL: "https://timschutz.org" 
+title: Tim Schütz
+paginate: 20
+theme: PaperMod
+
+enableInlineShortcodes: true
+enableRobotsTXT: true
+
+social:
+    twitter: tmschtz
+
+taxonomies:
+    tag: tags
+
+menu:
+    main:
+        - name: Publications
+          url: /publications/
+          weight: 1
+        - name: Talks
+          url: /talks/
+          weight: 2
+        - name: Teaching
+          url: /teaching/
+          weight: 3
+          weight: 4     
+        - name: CV
+          url: https://docs.google.com/document/d/1ab5wGZ6Kb4ieLRCdiT29AQRdrE07FSyHXdoYFiyCzjM/edit
+          weight: 7
+
+params:
+    description: "I am an Associate Professor of Economics at Brown University. I work on unemployment, economic slack, business cycles, macroeconomic policy, metascience."
+    author: Tim Schütz
+    googleAnalyticsID: ""
+    DateFormat: "January 2006"
+    defaultTheme: light
+    hideFooter: true
+    disableThemeToggle: true
+    ShowShareButtons: false
+    ShowReadingTime: false
+    disableSpecial1stPost: true
+    disableAnchoredHeadings: true
+    ShowPostNavLinks: false
+    ShowBreadCrumbs: false
+    ShowCodeCopyButtons: true
+    ShowRssButtonInSectionTermList: false
+    ShowToc: false
+    disableScrollToTop: true
+    TocOpen: true
+    ShowWordCount: false
+    UseHugoToc: true
+    comments: false
+    math: true
+    profileMode:
+          enabled: true
+          title: Tim Schütz
+          subtitle: "I am a PhD student at the University of California, Irvine. I currently work on the role of data and knowledge infrastructure in environmental justice movements. In 2023, I am a visiting researcher at National Chengchi University, Taipei, Taiwan."
+          imageUrl: "https://pbs.twimg.com/profile_images/1642026116121784320/hSA89zbB_400x400.jpg"
+          imageWidth: 170
+          imageHeight: 170
+          imageTitle: Tim Schütz
+          buttons:
+            - name: Publications
+              url: /publications/
+            - name: Talks
+              url: /talks/
+            - name: Teaching
+              url: /teaching/
+    socialIcons:
+        - name: CV
+          url: "/schutztim_CV.pdf"
+        - name: Email
+          url: "mailto:tschuetz@uci.edu"
+        - name: Google Scholar
+          url: "https://scholar.google.com/citations?user=KQlghMUAAAAJ&hl=en"
+        - name: Twitter
+          url: "https://twitter.com/tmschtz"
+        - name: YouTube
+          url: "https://www.youtube.com/channel/UC9WaeK29i2L50pQ3osSrR8w?app=desktop"
+        - name: GitHub
+          url: "https://github.com/timschuetz"
+
+    assets:
+        disableHLJS: true
+        disableScrollBarStyle: true
+    cover:
+        hiddenInList: true
+        hiddenInSingle: true
+    label:
+      text: "Tim Schütz"
+      icon: /favicon.ico
+      iconHeight: 18
+
+markup:
+    goldmark:
+        renderer:
+            unsafe: true
+    highlight:
+        guessSyntax: true
+        style: xcode
+    tableOfContents:
+        endLevel: 2
+        ordered: false
+        startLevel: 2
+
+# max number of characters:
+# * title: 70
+# * description: 120–155
+# * summary: 265
