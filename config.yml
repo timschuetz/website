@@ -14,8 +14,8 @@ taxonomies:
 
 menu:
     main:
-        - name: Papers
-          url: /papers/
+        - name: Publications
+          url: /publications/
           weight: 1
         - name: Courses
           url: /courses/
@@ -66,8 +66,8 @@ params:
           imageHeight: 170
           imageTitle: Tim Schütz
           buttons:
-            - name: Papers
-              url: /papers/
+            - name: Publications
+              url: /publications/
             - name: Courses
               url: /courses/
             - name: Design
