@@ -6,12 +6,8 @@ hidemeta: true
 description: "Visual"
 ---
 
-{% include youtube.html id="IE-ax71ClaI" %}
 
-\
-&nbsp;
-{% include youtube.html id="S6tZfiOTeCA" %}
+[![IMAGE_ALT](https://img.youtube.com/vi/IE-ax71ClaI/0.jpg)](https://www.youtube.com/watch?v=IE-ax71ClaI)
 
-\
-&nbsp;
+[![IMAGE_ALT](https://img.youtube.com/vi/IE-S6tZfiOTeCA/0.jpg)](https://www.youtube.com/watch?v=S6tZfiOTeCA)
 
