@@ -1,3 +1,12 @@
+---
+title: "Publications"
+aliases:
+    - /oh.html
+hidemeta: true
+description: "Publications"
+---
+
+
 ##### Peer-Reviewed Articles
 
 Adams, James, Tim Schütz, and Kim Fortun. in preparation. Relays Toward Just Transition and Environmental Justice: Civic Science, Law and Archiving Vs. Formosa Plastics Corp.
