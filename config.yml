@@ -14,19 +14,24 @@ taxonomies:
 
 menu:
     main:
+        - name: About
+          url: /about/
+          weight: 1
         - name: Publications
           url: /publications/
-          weight: 1
+          weight: 2
         - name: Talks
           url: /talks/
-          weight: 2
+          weight: 3
+        - name: Visual
+          url: /visual/
+          weight: 4 
         - name: Teaching
           url: /teaching/
-          weight: 3
-          weight: 4     
+          weight: 5 
         - name: CV
           url: https://docs.google.com/document/d/1ab5wGZ6Kb4ieLRCdiT29AQRdrE07FSyHXdoYFiyCzjM/edit
-          weight: 7
+          weight: 6
 
 params:
     description: "I am an Associate Professor of Economics at Brown University. I work on unemployment, economic slack, business cycles, macroeconomic policy, metascience."
@@ -54,16 +59,20 @@ params:
     profileMode:
           enabled: true
           title: Tim Schütz
-          subtitle: "I am a PhD student at the University of California, Irvine. I currently work on the role of data and knowledge infrastructure in environmental justice movements. In 2023, I am a visiting researcher at National Chengchi University, Taipei, Taiwan."
+          subtitle: "I am a PhD student at the University of California, Irvine. I currently work on the role of data in environmental politics. In 2023, I am a visiting researcher at National Chengchi University, Taipei, Taiwan."
           imageUrl: "https://pbs.twimg.com/profile_images/1642026116121784320/hSA89zbB_400x400.jpg"
           imageWidth: 170
           imageHeight: 170
           imageTitle: Tim Schütz
           buttons:
+            - name: About
+              url: /about/
             - name: Publications
               url: /publications/
             - name: Talks
               url: /talks/
+            - name: Visual
+              url: /visual/
             - name: Teaching
               url: /teaching/
     socialIcons:
@@ -79,6 +88,8 @@ params:
           url: "https://www.youtube.com/channel/UC9WaeK29i2L50pQ3osSrR8w?app=desktop"
         - name: GitHub
           url: "https://github.com/timschuetz"
+        - name: LinkedIn
+          url: "https://www.linkedin.com/in/tim-sch%C3%BCtz-0b6924127/"
 
     assets:
         disableHLJS: true
