@@ -55,7 +55,7 @@ params:
           enabled: true
           title: Tim Schütz
           subtitle: "I am a PhD student at the University of California, Irvine. My research and teaching fous on the ways data are mobilized across scientific fields, as evidence in legal cases, and as shared points of references in social movements. In Winter–Fall 2023, I am a visiting researcher at National Chengchi University, Taipei, Taiwan."
-          imageUrl: "/headshot.jpeg"
+          imageUrl: "https://pbs.twimg.com/profile_images/1642026116121784320/hSA89zbB_400x400.jpg"
           imageWidth: 170
           imageHeight: 170
           imageTitle: Tim Schütz
