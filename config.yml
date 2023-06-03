@@ -1,4 +1,4 @@
-baseURL: "https://timschuetz.github.io/website/" 
+baseURL: "https://timschuetz.github.io" 
 title: Tim Schütz
 paginate: 20
 theme: PaperMod
