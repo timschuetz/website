@@ -17,7 +17,7 @@ menu:
         - name: About
           url: /about/
           weight: 1
-        - name: Publications
+        - name: Writing
           url: /publications/
           weight: 2
         - name: Talks
