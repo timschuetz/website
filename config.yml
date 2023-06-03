@@ -65,12 +65,18 @@ params:
           imageHeight: 170
           imageTitle: Tim Schütz
           buttons:
+            - name: About
+              url: /about/
             - name: Publications
               url: /publications/
             - name: Talks
               url: /talks/
+            - name: Visual
+              url: /visual/
             - name: Teaching
               url: /teaching/
+            - name: CV
+              url: /schutztim_CV.pdf
     socialIcons:
         - name: CV
           url: "/schutztim_CV.pdf"
