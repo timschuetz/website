@@ -75,8 +75,6 @@ params:
               url: /visual/
             - name: Teaching
               url: /teaching/
-            - name: CV
-              url: /schutztim_CV.pdf
     socialIcons:
         - name: CV
           url: "/schutztim_CV.pdf"
