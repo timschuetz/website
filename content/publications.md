@@ -11,9 +11,9 @@ description: "Publications"
 
 Adams, James, Tim Schütz, and Kim Fortun. in preparation. Relays Toward Just Transition and Environmental Justice: Civic Science, Law and Archiving Vs. Formosa Plastics Corp.
 
-Khandekar, Aalok, Clément Dréano, Noela Invernizzi, Duygu Kaşdoğan, Ali Kenner, Angela Okune, Grant Jun Otsuki, Sujatha Raman, Tim Schütz, Federico Vasen, Amanda Windle, and Emily York. (2022). [Pursuing Transnational STS at ESOCITE/4S Joint Conference](https://estsjournal.org/index.php/ests/article/view/2011). _Engaging Science, Technology, and Society_._
+Khandekar, Aalok, Clément Dréano, Noela Invernizzi, Duygu Kaşdoğan, Ali Kenner, Angela Okune, Grant Jun Otsuki, Sujatha Raman, Tim Schütz, Federico Vasen, Amanda Windle, and Emily York. (2022). [Pursuing Transnational STS at ESOCITE/4S Joint Conference](https://estsjournal.org/index.php/ests/article/view/2011). _Engaging Science, Technology, and Society_.
 
-Okune, Angela, Grant Jun Otsuki , Tim Schütz, Clément Dréano, Noela Invernizzi, Aalok Khandekar, Duygu Kaşdoğan , Ali Kenner, Sujatha Raman, Federico Vasen, Amanda Windle, and Emily York. (2022). [Open Research Data: Experimenting Towards a Publishing Infrastructure](https://estsjournal.org/index.php/ests/article/view/1885). _Engaging Science, Technology, and Society_._
+Okune, Angela, Grant Jun Otsuki , Tim Schütz, Clément Dréano, Noela Invernizzi, Aalok Khandekar, Duygu Kaşdoğan , Ali Kenner, Sujatha Raman, Federico Vasen, Amanda Windle, and Emily York. (2022). [Open Research Data: Experimenting Towards a Publishing Infrastructure](https://estsjournal.org/index.php/ests/article/view/1885). _Engaging Science, Technology, and Society_.
 
 Fortun, Kim, James Adams, Tim Schütz and Scott G. Knowles. (2021). [Knowledge infrastructure and research agendas for quotidian anthropocenes: critical localism with planetary scope](https://journals.sagepub.com/eprint/BHZNZTNVT9XZZQSCZ4JC/full). *Anthropocene Review*. 
 
