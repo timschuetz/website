@@ -17,21 +17,15 @@ menu:
         - name: Publications
           url: /publications/
           weight: 1
-        - name: Courses
-          url: /courses/
+        - name: Talks
+          url: /talks/
           weight: 2
-        - name: Projects
-          url: /design/
+        - name: Teaching
+          url: /teaching/
           weight: 3
           weight: 4     
-        - name: Newsletter
-          url: https://pmichaillat.substack.com
-          weight: 5
-        - name: Talks
-          url: https://pmichaillat.substack.com
-          weight: 6
         - name: CV
-          url: https://pmichaillat.substack.com
+          url: https://docs.google.com/document/d/1ab5wGZ6Kb4ieLRCdiT29AQRdrE07FSyHXdoYFiyCzjM/edit
           weight: 7
 
 params:
@@ -60,7 +54,7 @@ params:
     profileMode:
           enabled: true
           title: Tim Schütz
-          subtitle: "I am a PhD student at the University of California, Irvine. I work on unemployment, economic slack, business cycles, macroeconomic policy, and science-related topics. In January–June 2023, I am visiting the University of California–San Diego."
+          subtitle: "I am a PhD student at the University of California, Irvine. My research and teaching fous on the ways data are mobilized across scientific fields, as evidence in legal cases, and as shared points of references in social movements. In Winter–Fall 2023, I am a visiting researcher at National Chengchi University, Taipei, Taiwan."
           imageUrl: "/picture.jpeg"
           imageWidth: 170
           imageHeight: 170
@@ -68,31 +62,23 @@ params:
           buttons:
             - name: Publications
               url: /publications/
-            - name: Courses
-              url: /courses/
-            - name: Design
-              url: /design/
             - name: Talks
               url: /talks/
-            - name: Projects
-              url: /projects/
+            - name: Teaching
+              url: /teaching/
     socialIcons:
         - name: CV
-          url: "/cv.pdf"
+          url: "/schutztim_CV.pdf"
         - name: Email
-          url: "mailto:pascalmichaillat@gmail.com"
-        - name: Location
-          url: /location/
-        - name: Office Hours
-          url: /officehours/
+          url: "mailto:tschuetz@uci.edu"
+        - name: Twitter
+          url: "https://twitter.com/tmschtz"
         - name: Google Scholar
-          url: "https://scholar.google.com/citations?user=cL23w-4AAAAJ"
+          url: "https://scholar.google.com/citations?user=KQlghMUAAAAJ&hl=en"
         - name: YouTube
-          url: "https://www.youtube.com/@pmichaillat"
+          url: "https://www.youtube.com/channel/UC9WaeK29i2L50pQ3osSrR8w?app=desktop"
         - name: GitHub
-          url: "https://github.com/pmichaillat"
-        - name: Substack
-          url: "https://pmichaillat.substack.com"
+          url: "https://github.com/timschuetz"
 
     assets:
         disableHLJS: true
