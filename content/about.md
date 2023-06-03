@@ -18,5 +18,15 @@ I'm a member of UC Irvine's [EcoGovLab](https://faculty.sites.uci.edu/fortunlab)
 
 My dissertation research is supported by the Social Science Research Council's International Dissertation Research Fellowship. I'm an alumn of the German-American Fulbright Foundation and the German Academic Scholarship Foundation (Studienstiftung des deutschen Volkes). 
 
+**BA Media and Communication Studies (2017)**
+University of Bremen, Germany
+
+**MA Science and Technology Studies (2020)**
+Goethe University Frankfurt, Germany
+
+**PhD Cultural Anthropology (2018–)**
+University of California, Irvine, USA
+
 **Email:** [tschuetz@uci.edu](mailto:tschuetz.uci.edu).
+
 
