@@ -54,7 +54,7 @@ params:
     profileMode:
           enabled: true
           title: Tim Schütz
-          subtitle: "I am a PhD student at the University of California, Irvine. My research and teaching fous on the ways data are mobilized across scientific fields, as evidence in legal cases, and as shared points of references in social movements. In Winter–Fall 2023, I am a visiting researcher at National Chengchi University, Taipei, Taiwan."
+          subtitle: "I am a PhD student at the University of California, Irvine. I currently work on the role of data and knowledge infrastructure in environmental justice movements. In 2023, I am a visiting researcher at National Chengchi University, Taipei, Taiwan."
           imageUrl: "https://pbs.twimg.com/profile_images/1642026116121784320/hSA89zbB_400x400.jpg"
           imageWidth: 170
           imageHeight: 170
@@ -73,7 +73,7 @@ params:
           url: "mailto:tschuetz@uci.edu"
         - name: Google Scholar
           url: "https://scholar.google.com/citations?user=KQlghMUAAAAJ&hl=en"
-        - name: Tiwtter
+        - name: Twitter
           url: "https://twitter.com/tmschtz"
         - name: YouTube
           url: "https://www.youtube.com/channel/UC9WaeK29i2L50pQ3osSrR8w?app=desktop"
