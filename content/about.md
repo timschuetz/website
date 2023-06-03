@@ -16,7 +16,7 @@ Since 2020, I co-develop the [Formosa Plastics Global Archive](https://disaster-
 
 I'm a member of UC Irvine's [EcoGovLab](https://faculty.sites.uci.edu/fortunlab) and the Design Group for the [Platform for Experimental Collaborative Ethnography](www.worldpece.org) (PECE).
 
-My dissertation research is supported by the Social Science Research Council [SSRC IDRF[(https://www.ssrc.org/programs/idrf/international-dissertation-research-fellowship/). I'm an alumn of the German-American Fulbright Foundation and Studienstiftung des deutschen Volkes. 
+My dissertation research is supported by the Social Science Research Council [SSRC IDRF](https://www.ssrc.org/programs/idrf/international-dissertation-research-fellowship/). I'm an alumn of the [German-American Fulbright program](https://www.fulbright.de/) and [Studienstiftung des deutschen Volkes](https://en.wikipedia.org/wiki/Studienstiftung). 
 
 **BA Media and Communication Studies**
 University of Bremen, Germany
