@@ -16,15 +16,15 @@ Since 2020, I co-develop the [Formosa Plastics Global Archive](https://disaster-
 
 I'm a member of UC Irvine's [EcoGovLab](https://faculty.sites.uci.edu/fortunlab) and the Design Group for the [Platform for Experimental Collaborative Ethnography](www.worldpece.org) (PECE).
 
-My dissertation research is supported by the Social Science Research Council's International Dissertation Research Fellowship. I'm an alumn of the German-American Fulbright Foundation and the German Academic Scholarship Foundation (Studienstiftung des deutschen Volkes). 
+My dissertation research is supported by the Social Science Research Council [SSRC IDRF[(https://www.ssrc.org/programs/idrf/international-dissertation-research-fellowship/). I'm an alumn of the German-American Fulbright Foundation and Studienstiftung des deutschen Volkes. 
 
-**BA Media and Communication Studies (2017)**
+**BA Media and Communication Studies**
 University of Bremen, Germany
 
-**MA Science and Technology Studies (2020)**
+**MA Science and Technology Studies**
 Goethe University Frankfurt, Germany
 
-**PhD Cultural Anthropology (2018–)**
+**PhD Cultural Anthropology (expected 2025–)**
 University of California, Irvine, USA
 
 **Email:** [tschuetz@uci.edu](mailto:tschuetz.uci.edu).
