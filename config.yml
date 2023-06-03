@@ -73,6 +73,8 @@ params:
           url: "mailto:tschuetz@uci.edu"
         - name: Google Scholar
           url: "https://scholar.google.com/citations?user=KQlghMUAAAAJ&hl=en"
+        - name: Tiwtter
+          url: "https://twitter.com/tmschtz"
         - name: YouTube
           url: "https://www.youtube.com/channel/UC9WaeK29i2L50pQ3osSrR8w?app=desktop"
         - name: GitHub
