@@ -30,11 +30,11 @@ menu:
           url: /teaching/
           weight: 5 
         - name: CV
-          url: https://docs.google.com/document/d/1ab5wGZ6Kb4ieLRCdiT29AQRdrE07FSyHXdoYFiyCzjM/edit
+          url: /SchutzTim_CV.pdf
           weight: 6
 
 params:
-    description: "I am an Associate Professor of Economics at Brown University. I work on unemployment, economic slack, business cycles, macroeconomic policy, metascience."
+    description: "I'm a PhD student at University of California Irvine’s Department of Anthropology. I currently study the role of data in environmental politics."
     author: Tim Schütz
     googleAnalyticsID: ""
     DateFormat: "January 2006"
@@ -69,12 +69,15 @@ params:
               url: /about/
             - name: Publications
               url: /publications/
+            - name: Projects
+              url: /projects/
             - name: Talks
               url: /talks/
             - name: Visual
               url: /visual/
             - name: Teaching
               url: /teaching/
+              
     socialIcons:
         - name: CV
           url: "/schutztim_CV.pdf"
