@@ -59,7 +59,7 @@ params:
     profileMode:
           enabled: true
           title: Tim Schütz
-          subtitle: "I am a PhD student at University of California Irvine’s Department of Anthropology. I currently work on the role of data and digital archives in environmental politics. In 2023, I am a visiting researcher at National Chengchi University, Taipei, Taiwan."
+          subtitle: "I'm a PhD student at University of California Irvine’s Department of Anthropology. I currently study the role of data in environmental politics. From Feb – Nov 2023, I'm a visiting researcher at National Chengchi University, Taipei, Taiwan."
           imageUrl: "https://avatars.githubusercontent.com/u/38264390?v=4g"
           imageWidth: 170
           imageHeight: 170
