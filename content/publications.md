@@ -9,7 +9,7 @@ description: "Publications"
 
 ##### Peer-Reviewed Articles
 
-Adams, James, Tim Schütz, and Kim Fortun. in preparation. Relays Toward Just Transition and Environmental Justice: Civic Science, Law and Archiving Vs. Formosa Plastics Corp.
+under review. Adams, James, Tim Schütz, and Kim Fortun. Late Industrialism and the Work of Law: Relays Towards Just Transition.
 
 Khandekar, Aalok, Clément Dréano, Noela Invernizzi, Duygu Kaşdoğan, Ali Kenner, Angela Okune, Grant Jun Otsuki, Sujatha Raman, Tim Schütz, Federico Vasen, Amanda Windle, and Emily York. (2022). [Pursuing Transnational STS at ESOCITE/4S Joint Conference](https://estsjournal.org/index.php/ests/article/view/2011). _Engaging Science, Technology, and Society_.
 
