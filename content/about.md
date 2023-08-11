@@ -6,7 +6,7 @@ hidemeta: true
 description: "About"
 ---
 
-I'm a PhD candidate in the University of California Irvine's [Department of Anthropology](https://www.anthropology.uci.edu/).
+I'm a PhD candidate in the University of California Irvine's [Department of Anthropology](https://www.anthropology.uci.edu/). Until the end of 2023, I'm visiting scholar at National Chengchi University, Taipei, Taiwan. 
 
 My research and teaching focus on ways data are mobilized across scientific fields, as evidence in legal cases, and as shared points of references in social movements. I study how data practices change, the infrastructures and ideologies that shape them, and the contexts in which data gains or loses analytic and political power.
 
