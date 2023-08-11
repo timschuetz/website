@@ -9,11 +9,17 @@ description: "Talks"
 
 ##### Upcoming
 
-In-class presentation. 2023. Globalization and Public Affairs, invited by Prof. TU Wen-Ling, National Chengchi University Taipei, April 28.
+"Civic Archiving and Data Sharing for Environmental Justice". 4S Conference, Honululu, November 8-11, 2023. 
+
+"Analyzing Formosa Plastics, Across Systems and Scales". Taiwan STS Annual Conference, September 2–3, 2023. 
 
 ---
 
 ##### Invited Talks
+
+International Forum on Post-Disaster Recovery, invited by Prof. Hui-Nien Lin, National Pingtung University, Taiwan, June 17, 2023.
+
+In-class presentation. 2023. Globalization and Public Affairs, invited by Prof. TU Wen-Ling, National Chengchi University Taipei, April 28.
 
 "Experiments in Collaboration: Purposes, Designs, Infrastructures". Appalachian State University, North Carolina, invited by Prof. Dana Powell, October 10, 2022
 
