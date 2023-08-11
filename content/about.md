@@ -14,6 +14,8 @@ I both study and help build robust public knowledge infrastructure, working with
 
 Since 2020, I co-developed the [Formosa Plastics Global Archive](https://disaster-sts-network.org/content/formosa-plastics-global-archive-%E5%8F%B0%E7%81%A3%E5%A1%91%E8%86%A0%E6%AA%94%E6%A1%88%E9%A4%A8/essay), a digital collection that supports a transnational network of people concerned about the operations of the Formosa Plastics Corporation, one of the world's largest petrochemical companies.
 
+I've collaborated and taught with colleagues at UC Irvine's Donald Bren School of Information and Computer Sciences and served as reviewer for informatics journals like Computer Supported Cooperative Work (CSCW). 
+
 I'm a member of UC Irvine's [EcoGovLab](https://faculty.sites.uci.edu/fortunlab) and the Design Group for the [Platform for Experimental Collaborative Ethnography](www.worldpece.org) (PECE).
 
 My research has been supported by the Social Science Research Council, the German-American Fulbright program, and the German Academic Scholarship Foundation (Studienstiftung).
