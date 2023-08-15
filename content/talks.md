@@ -9,7 +9,7 @@ description: "Talks"
 
 ##### Upcoming
 
-Guest Lecture, Course: [Gaiapolitics, Ecology, and War | Week 4: "Taiwan in the Plasticene"](https://newdoc.nccu.edu.tw/teaschm/1121/schmPrv.jsp-yy=112&smt=1&num=204791&gop=00&s=1.html?fbclid=IwAR0ytJM1dpEwDfZ2ojskK6RMZYV2rHaJf6U6yoYhwJoRmBfB65YuUA_2qcs), invited by Prof. Paul Jobin, Academia Sinica, Taipei, Taiwan, September 28, 2023.
+Guest Lecture,[Gaiapolitics, Ecology, and War | Week 4: "Taiwan in the Plasticene"](https://newdoc.nccu.edu.tw/teaschm/1121/schmPrv.jsp-yy=112&smt=1&num=204791&gop=00&s=1.html?fbclid=IwAR0ytJM1dpEwDfZ2ojskK6RMZYV2rHaJf6U6yoYhwJoRmBfB65YuUA_2qcs), invited by Prof. Paul Jobin, Academia Sinica, Taipei, Taiwan, September 28, 2023.
 
 "Analyzing Formosa Plastics, Across Systems and Scales". Taiwan STS Annual Conference, September 2–3, 2023. 
 
