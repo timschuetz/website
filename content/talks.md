@@ -9,6 +9,8 @@ description: "Talks"
 
 ##### Upcoming
 
+Guest Lecture for the course [Gaiapolitics, Ecology, and War](https://newdoc.nccu.edu.tw/teaschm/1121/schmPrv.jsp-yy=112&smt=1&num=204791&gop=00&s=1.html?fbclid=IwAR0ytJM1dpEwDfZ2ojskK6RMZYV2rHaJf6U6yoYhwJoRmBfB65YuUA_2qcs) ("Taiwan in the Plasticene"), invited by Prof. Paul Jobin, Academia Sinica, Taipei, Taiwan, September 28, 2023.
+
 "Civic Archiving and Data Sharing for Environmental Justice". 4S Conference, Honululu, November 8-11, 2023. 
 
 "Analyzing Formosa Plastics, Across Systems and Scales". Taiwan STS Annual Conference, September 2–3, 2023. 
