@@ -9,7 +9,7 @@ description: "Publications"
 
 ##### Peer-Reviewed Articles
 
-forthcoming. Adams, James, Tim Schütz, and Kim Fortun. 2023. Late Industrialism and the Work of Law: Relays Towards Just Transition. *East Asian Science, Technology and Society*.
+Adams, James, Tim Schütz, and Kim Fortun. (2023, in press). Late Industrialism and the Work of Law: Relays Towards Just Transition. *East Asian Science, Technology and Society*.
 
 Khandekar, Aalok, Clément Dréano, Noela Invernizzi, Duygu Kaşdoğan, Ali Kenner, Angela Okune, Grant Jun Otsuki, Sujatha Raman, Tim Schütz, Federico Vasen, Amanda Windle, and Emily York. (2022). [Pursuing Transnational STS at ESOCITE/4S Joint Conference](https://estsjournal.org/index.php/ests/article/view/2011). _Engaging Science, Technology, and Society_.
 
