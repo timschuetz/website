@@ -9,15 +9,15 @@ description: "Talks"
 
 ##### Upcoming
 
-In-class lecture, [Gaiapolitics, Ecology, and War | Session: "Taiwan in the Plasticene"](https://newdoc.nccu.edu.tw/teaschm/1121/schmPrv.jsp-yy=112&smt=1&num=204791&gop=00&s=1.html?fbclid=IwAR0ytJM1dpEwDfZ2ojskK6RMZYV2rHaJf6U6yoYhwJoRmBfB65YuUA_2qcs), invited by Prof. Paul Jobin, Academia Sinica, Taipei, Taiwan, September 28, 2023.
-
-"Analyzing Formosa Plastics, Across Systems and Scales". Taiwan STS Annual Conference, September 2–3, 2023. 
-
-"Civic Archiving and Data Sharing for Environmental Justice". 4S Conference, Honululu, November 8-11, 2023. 
+"Civic Archiving and Data Sharing for Environmental Justice". Society for the Social Studies of Science (4S) Conference, Honululu, November 8-11, 2023, with Zoe Friese and Rex Simmons. 
 
 ---
 
 ##### Invited Talks
+
+"Analyzing Civic Data Cultures". Hack Your District, Taipei, Taiwan, invited by Jonas Fahlbusch. October 19, 2023.
+
+In-class lecture, Gaiapolitics, Ecology, and War, Session: "Taiwan in the Plasticene," invited by Prof. Paul Jobin, Academia Sinica, Taipei, Taiwan, September 28, 2023. [link](https://newdoc.nccu.edu.tw/teaschm/1121/schmPrv.jsp-yy=112&smt=1&num=204791&gop=00&s=1.html?fbclid=IwAR0ytJM1dpEwDfZ2ojskK6RMZYV2rHaJf6U6yoYhwJoRmBfB65YuUA_2qcs).
 
 International Forum on Post-Disaster Recovery, invited by Prof. Hui-Nien Lin, National Pingtung University, Taiwan, June 17, 2023.
 
@@ -57,6 +57,8 @@ In-class presentation. 2023. Globalization and Public Affairs, invited by Prof. 
  \
 &nbsp;
 ##### Conferences and Workshops
+
+"Analyzing Formosa Plastics, Across Systems and Scales". Taiwan STS Annual Conference, September 2–3, 2023. 
 
 "Relays for Just Transition: Civic Archiving vs. Formosa Plastics Corporation." ESOCITE/4S, Cholula, Mexico, December 7, 2022.
 
