@@ -1,4 +1,3 @@
-![image](https://github.com/timschuetz/website/assets/38264390/87eca315-ef03-42cd-ac7a-b13bf1fd4b1c)---
 title: "Visual"
 aliases:
     - /oh.html
