@@ -1,4 +1,4 @@
----
+![image](https://github.com/timschuetz/website/assets/38264390/87eca315-ef03-42cd-ac7a-b13bf1fd4b1c)---
 title: "Visual"
 aliases:
     - /oh.html
@@ -8,6 +8,8 @@ description: "Visual"
 
 ### Current-Wave: Reaching for Just Transitions in Coastal Communities
 Exhibition, Taipei, Taiwan, November 4–5, 2023
+
+[![IMAGE ALT](https://disaster-sts-network.org/sites/default/files/styles/panopoly_image_full/public/general/currents.png?itok=OgOoDXgq)
 
 https://disaster-sts-network.org/content/current%E2%80%93wave-reaching-just-transitions-coastal-communities/essay
 
