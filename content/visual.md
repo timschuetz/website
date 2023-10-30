@@ -8,7 +8,7 @@ description: "Visual"
 ### Current-Wave: Reaching for Just Transitions in Coastal Communities
 Exhibition, Taipei, Taiwan, November 4–5, 2023
 
-[IMAGE](https://disaster-sts-network.org/sites/default/files/styles/panopoly_image_full/public/general/currents.png?itok=OgOoDXgq)
+[!IMAGE](https://disaster-sts-network.org/sites/default/files/styles/panopoly_image_full/public/general/currents.png?itok=OgOoDXgq)
 
 https://disaster-sts-network.org/content/current%E2%80%93wave-reaching-just-transitions-coastal-communities/essay
 
