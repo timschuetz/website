@@ -24,6 +24,8 @@ Khandekar, Aalok, Clément Dréano, Noela Invernizzi, Duygu Kaşdoğan, Ali Kenn
 Okune, Angela, Grant Jun Otsuki , Tim Schütz, Clément Dréano, Noela Invernizzi, Aalok Khandekar, Duygu Kaşdoğan , Ali Kenner, Sujatha Raman, Federico Vasen, Amanda Windle, and Emily York. (2022). [Open Research Data: Experimenting Towards a Publishing Infrastructure](https://estsjournal.org/index.php/ests/article/view/1885). _Engaging Science, Technology, and Society_.
 
 Schütz, Tim. [Visualizing Taiwan's Formosa Plastics](https://dl.acm.org/doi/pdf/10.1145/3470484). (2021). *ACM Interactions*, Vol. 28(4), pp. 50–55. 
+\
+&nbsp;
 
 ##### Book Chapters
 
