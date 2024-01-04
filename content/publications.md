@@ -29,7 +29,7 @@ Schütz, Tim. [Visualizing Taiwan's Formosa Plastics](https://dl.acm.org/doi/pdf
 
 ##### Book Chapters
 
-forthcoming. Korean translation of Data Activism and Petro-Public Knowledge "Across Borders". 
+(forthcoming). Korean translation of Data Activism and Petro-Public Knowledge "Across Borders". 
 
 Fortun, Kim, Mike Fortun, Angela Hitomi Skye Crandall Okune, Tim Schütz, Shan-Ya Su. (2021). [Civic Community Archiving with the Platform for Experimental Collaborative Ethnography: Double Binds and Design Challenges](http://centerforethnography.org/sites/default/files/artifacts/media/pdf/516458_1_en_3_chapter_onlinepdf_1.pdf). *HCI International 2021 Proceedings*.
 
