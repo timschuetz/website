@@ -9,17 +9,22 @@ description: "Publications"
 
 ##### Peer-Reviewed Articles
 
-Adams, James, Tim Schütz, and Kim Fortun. (2023, in press). [Late Industrialism and the Work of Law: Relays Towards Just Transition](https://doi.org/10.1080/18752160.2023.2267338). *East Asian Science, Technology and Society*.
-
-Khandekar, Aalok, Clément Dréano, Noela Invernizzi, Duygu Kaşdoğan, Ali Kenner, Angela Okune, Grant Jun Otsuki, Sujatha Raman, Tim Schütz, Federico Vasen, Amanda Windle, and Emily York. (2022). [Pursuing Transnational STS at ESOCITE/4S Joint Conference](https://estsjournal.org/index.php/ests/article/view/2011). _Engaging Science, Technology, and Society_.
-
-Okune, Angela, Grant Jun Otsuki , Tim Schütz, Clément Dréano, Noela Invernizzi, Aalok Khandekar, Duygu Kaşdoğan , Ali Kenner, Sujatha Raman, Federico Vasen, Amanda Windle, and Emily York. (2022). [Open Research Data: Experimenting Towards a Publishing Infrastructure](https://estsjournal.org/index.php/ests/article/view/1885). _Engaging Science, Technology, and Society_.
+Adams, James, Tim Schütz, and Kim Fortun. (2023). [Late Industrialism and the Work of Law: Relays Towards Just Transition](https://doi.org/10.1080/18752160.2023.2267338). *East Asian Science, Technology and Society: An International Journal (1)32*.
 
 Fortun, Kim, James Adams, Tim Schütz and Scott G. Knowles. (2021). [Knowledge infrastructure and research agendas for quotidian anthropocenes: critical localism with planetary scope](https://journals.sagepub.com/eprint/BHZNZTNVT9XZZQSCZ4JC/full). *Anthropocene Review*. 
 
 Kubitschko, Sebastian and Tim Schütz. (2017). [Humanitarian media interventions: doing infrastructures in times of forced migration](https://spheres-journal.org/contribution/humanitarian-media-intervention-infrastructuring-in-times-of-forced-migration). *Spheres Journal for Digital Cultures* Vol. 3.
 \
 &nbsp;
+
+##### Public Writing
+
+Khandekar, Aalok, Clément Dréano, Noela Invernizzi, Duygu Kaşdoğan, Ali Kenner, Angela Okune, Grant Jun Otsuki, Sujatha Raman, Tim Schütz, Federico Vasen, Amanda Windle, and Emily York. (2022). [Pursuing Transnational STS at ESOCITE/4S Joint Conference](https://estsjournal.org/index.php/ests/article/view/2011). _Engaging Science, Technology, and Society_.
+
+Okune, Angela, Grant Jun Otsuki , Tim Schütz, Clément Dréano, Noela Invernizzi, Aalok Khandekar, Duygu Kaşdoğan , Ali Kenner, Sujatha Raman, Federico Vasen, Amanda Windle, and Emily York. (2022). [Open Research Data: Experimenting Towards a Publishing Infrastructure](https://estsjournal.org/index.php/ests/article/view/1885). _Engaging Science, Technology, and Society_.
+
+Schütz, Tim. [Visualizing Taiwan's Formosa Plastics](https://dl.acm.org/doi/pdf/10.1145/3470484). (2021). *ACM Interactions*, Vol. 28(4), pp. 50–55. 
+
 ##### Book Chapters
 
 forthcoming. Korean translation of Data Activism and Petro-Public Knowledge "Across Borders". 
@@ -33,13 +38,11 @@ Schütz, Tim and Monic Meisel. (2020). [Free Wireless Network Activism and the I
 Schütz, Tim. (2019). [Humanitäre Medieninterventionen. Digitale Infrastruktur in Unterkünften für Geflüchtete](https://www.springer.com/de/book/9783658283797#aboutBook). In: Kaufmann, Nimführ, Otto & Schütte (eds.) *Forschen und Arbeiten im Kontext von Flucht. Reflexionslücken, Repräsentations- und Ethikfragen*. VS Springer.
 \
 &nbsp;
-##### Short Form
+##### Blogs
 
 Schütz, Tim and Kim Fortun. (2022). [In the Wake of Formosa Plastics: A Report from the Reaching For Just Transition Seminar Series](https://www.academia.edu/81249094/In_the_Wake_of_Formosa_Plastics_A_Report_from_the_Reaching_For_Just_Transition_Seminar_Series). _4S Backchannels_. June 6.
 
 Schütz, Tim. (2022). [Civic Data and Infrastructure in Community-based Research](https://newkirkcenter.uci.edu/2022/02/24/civic-data-and-infrastructure-in-community-based-research/). _UCI Research Justice Shop_. February 24.
-
-Schütz, Tim. [Visualizing Taiwan's Formosa Plastics](https://dl.acm.org/doi/pdf/10.1145/3470484). (2021). *ACM Interactions*, Vol. 28(4), pp. 50–55. 
 
 Schütz, Tim and Shan-Ya Su. (2021, April 27). [Data Activism and Petro-Public Knowledge “Across Borders”: The Formosa Plastics Global Archive](http://blog.castac.org/2021/04/data-activism-and-petro-public-knowledge-across-borders-the-formosa-plastics-global-archive)  / [數據行動主義×跨界的石化公共知識：台灣塑膠檔案館](http://blog.castac.org/multilingual/%e6%95%b8%e6%93%9a%e8%a1%8c%e5%8b%95%e4%b8%bb%e7%be%a9x%e8%b7%a8%e7%95%8c%e7%9a%84%e7%9f%b3%e5%8c%96%e5%85%ac%e5%85%b1%e7%9f%a5%e8%ad%98%ef%bc%9a%e5%8f%b0%e7%81%a3%e5%a1%91%e8%86%a0%e6%aa%94)._Platypus.The CASTAC Blog_.
 
