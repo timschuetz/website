@@ -14,7 +14,7 @@ I’m an active member of the Design Group for the Platform for Experimental Co
 
 I studied Media, Communication, and Cultural Research in Bremen and Istanbul (BA) and Science and Technology Studies (MA) in Frankfurt. I’m an alumni of the German National Academic Foundation (Studienstiftung des Deutschen Volkes) and the German-American Fulbright Foundation.
 
-After growing up in Ostwestfalen, Germany, I moved to Reykjavík to volunteer in a community-based mental health center and study Icelandic. I also have professional experience in digital media production, one reason I'm passionate about visual and science communication, as well as participating in civic technology projects. 
+I grew up in Ostwestfalen, Germany and later moved to Reykjavík to volunteer in a community-based mental health center and study Icelandic. I have a professional background in digital media production, one reason I'm passionate about visual design, science communication, and civic technology projects. 
 
 You can reach me at [tschuetz@uci.edu](mailto:tschuetz.uci.edu).
 
