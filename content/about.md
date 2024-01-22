@@ -12,7 +12,7 @@ As part of my ongoing [dissertation project](https://disaster-sts-network.org/co
 
 I studied Media, Communication, and Cultural Research in Bremen and Istanbul (BA) and Science and Technology Studies (MA) in Frankfurt. I received scholarships from the Fulbright Foundation, German National Academic Foundation (Studienstiftung des Deutschen Volkes), Social Science Research Council (SSRC), and the Environmental Data Justice Fund (Windward Foundation). Until April 2024, I'm a visiting scholar at the [International College of Innovation](https://ici.nccu.edu.tw/about-us/) at National Chengchi University in Taipei.
 
-Actively engaged in the Design Group for the [Platform for Experimental Collaborative Ethnography (PECE)](https://worldpece.org/), I also serve as the open data editor for the journal [Engaging Science, Technology, and Society](https://estsjournal.org/index.php/ests).
+Actively engaged in the Design Group for the [Platform for Experimental Collaborative Ethnography (PECE)](https://worldpece.org/), I also serve as consultant for [The Asthma File's Kaohsiung Archive](https://theasthmafiles.org/content/kaohsiung/essay) and open data editor for the journal [Engaging Science, Technology, and Society](https://estsjournal.org/index.php/ests).
 
 Feel free to reach out to me at [tschuetz@uci.edu](mailto:tschuetz.uci.edu).
 
