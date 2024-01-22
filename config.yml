@@ -34,7 +34,7 @@ menu:
           weight: 6
 
 params:
-    description: "I'm a PhD student at University of California Irvine’s Department of Anthropology. I currently study the role of data in environmental politics."
+    description: "I'm a PhD student at University of California Irvine’s Department of Anthropology. I currently study the role of data in environmental politics, research, and communication."
     author: Tim Schütz
     googleAnalyticsID: ""
     DateFormat: "January 2006"
