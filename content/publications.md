@@ -19,7 +19,7 @@ Kubitschko, Sebastian and Tim Schütz. (2017). [Humanitarian media interventions
 
 ##### Public Writing
 
-Invernizzi, N., York, E., Dréano, C., Kaşdoğan, D., Kenner, A., Khandekar, A., Okune, A., Otsuki, G.J., Raman, S., Schütz, T. and Vasen, F. (2023). [Innovationism Across Transnational Landscapes](https://estsjournal.org/index.php/ests/article/view/2503). Engaging Science, Technology, and Society, 9(2), pp.1-8.
+Invernizzi, Noela, Emily York, Clément Dréano, Duygu Kaşdoğan, Ali Kenner, Aalok Khandekar, Angela Okune, Grant Jun Otsuki, Sujatha Raman, Tim Schütz, Federico Vasen, and Amanda Windle. (2023). [Innovationism Across Transnational Landscapes](https://estsjournal.org/index.php/ests/article/view/2503). Engaging Science, Technology, and Society, 9(2), pp.1-8.
 
 Khandekar, Aalok, Clément Dréano, Noela Invernizzi, Duygu Kaşdoğan, Ali Kenner, Angela Okune, Grant Jun Otsuki, Sujatha Raman, Tim Schütz, Federico Vasen, Amanda Windle, and Emily York. (2022). [Pursuing Transnational STS at ESOCITE/4S Joint Conference](https://estsjournal.org/index.php/ests/article/view/2011). _Engaging Science, Technology, and Society_.
 
