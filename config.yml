@@ -30,7 +30,7 @@ menu:
           url: /teaching/
           weight: 5 
         - name: CV
-          url: /SchutzTim_CV.pdf
+          url: /Schutz_Tim_CV.pdf
           weight: 6
 
 params:
@@ -77,10 +77,10 @@ params:
               url: /visual/
             - name: Teaching
               url: /teaching/
+            - name: CV
+              url: /Schutz_Tim_CV.pdf
               
     socialIcons:
-        - name: CV
-          url: "/schutztim_CV.pdf"
         - name: Email
           url: "mailto:tschuetz@uci.edu"
         - name: Google Scholar
