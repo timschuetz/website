@@ -9,7 +9,7 @@ description: "Talks"
 
 ##### Upcoming
 
-"Civic Archiving and Data Sharing for Environmental Justice". Society for the Social Studies of Science (4S) Conference, Honululu, November 8-11, 2023, with Zoe Friese and Rex Simmons. 
+"Digital Archiving for Environmental Health and Justice: The Global Case of Formosa Plastics," invited by Prof. Dana Powell, Taipei Medical University. 
 
 ---
 
@@ -57,6 +57,8 @@ In-class presentation. 2023. Globalization and Public Affairs, invited by Prof. 
  \
 &nbsp;
 ##### Conferences and Workshops
+
+"Civic Archiving and Data Sharing for Environmental Justice". Society for the Social Studies of Science (4S) Conference, Honululu, November 8-11, 2023, with Zoe Friese and Rex Simmons. 
 
 "Analyzing Formosa Plastics, Across Systems and Scales". Taiwan STS Annual Conference, September 2–3, 2023. 
 
