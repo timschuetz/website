@@ -6,9 +6,9 @@ hidemeta: true
 description: "Publications"
 ---
 
-*peer-reviewed 
+***** peer-reviewed
 
-**Environmental Data, Governance & Justice**
+## **Environmental Data, Governance & Justice**
 
 (forthcoming). Korean translation of Data Activism and Petro-Public Knowledge "Across Borders". 
 
@@ -30,11 +30,9 @@ Schütz, Tim. (2020). [Ethnographers and Civic Data: Insights from Environmental
 Schütz, Tim. (2019). [Archiving for the Anthropocene: Notes from the Field Campus](http://blog.castac.org/2019/10/archiving-for-the-anthropocene-notes-from-the-field-campus/?fbclid=IwAR1GrKndGBMAFlnxyf_00WLlp6UlR7C75oZfxBdGMA7r4JucU9k-occwE1I). *Platypus*. October 29, 2019.
 
 Ludwig, Jason, Tim Schütz, Scott G. Knowles and Kim Fortun. (2019). [Tactics for Quotidian Anthropocenes: A Field Campus Report](https://www.anthropocene-curriculum.org/contribution/tactics-for-quotidian-anthropocenes). *Anthropocene Curriculum*. Berlin: Haus der Kulturen der Welt.
-
 \
 &nbsp;
-
-**Open Data, Archives, & Knowledge Infrastructure**
+## **Open Data, Archives, & Knowledge Infrastructure**
 
 Fortun, Kim, Mike Fortun, Angela Hitomi Skye Crandall Okune, **Tim Schütz**, Shan-Ya Su. (2021). [Civic Community Archiving with the Platform for Experimental Collaborative Ethnography: Double Binds and Design Challenges](http://centerforethnography.org/sites/default/files/artifacts/media/pdf/516458_1_en_3_chapter_onlinepdf_1.pdf). *HCI International 2021 Proceedings*.
 
@@ -47,8 +45,9 @@ Khandekar, Aalok, Clément Dréano, Noela Invernizzi, Duygu Kaşdoğan, Ali Kenn
 Okune, Angela, Grant Jun Otsuki , **Tim Schütz**, Clément Dréano, Noela Invernizzi, Aalok Khandekar, Duygu Kaşdoğan , Ali Kenner, Sujatha Raman, Federico Vasen, Amanda Windle, and Emily York. (2022). [Open Research Data: Experimenting Towards a Publishing Infrastructure](https://estsjournal.org/index.php/ests/article/view/1885). _Engaging Science, Technology, and Society_.
 
 Schütz, Tim. (2018). [Still “in its infancy”? Afterthoughts on the relevance of STS anchors in Germany](https://easst.net/article/still-in-its-infancy-afterthoughts-on-the-relevance-of-sts-anchors-in-germany/). *EASST Review* Vol. 37(4)*.
-
-**Digital Politics & Culture**
+\
+&nbsp;
+## **Digital Politics & Culture**
 
 Schütz, Tim and Monic Meisel. (2020). [Free Wireless Network Activism and the Industrialized Media Infrastructures of Forced Migration](https://www.pmpress.org/index.php?l=product_detail&p=1097). In: McGuirk, Siobhán & Pine, Adrienne (eds.) *Asylum for Sale: Profit, and Protest in the Migration Industry*. Oakland: PM Press.
 
@@ -60,7 +59,7 @@ Kubitschko, Sebastian and **Tim Schütz**. (2017). [Humanitarian media intervent
 
 \
 &nbsp;
-##### Interviews
+## Interviews
 
 "[Trước Thảm Hoạ Formosa Chúng Ta Phải Làm Gì?](https://youtu.be/qEuRrKZxR_E)", *Saigon Broadcasting Television Network*, Feb 23, 2022. 
 
