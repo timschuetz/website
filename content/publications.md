@@ -6,21 +6,19 @@ hidemeta: true
 description: "Publications"
 ---
 
-For a chronological overview, see [Google Scholar](https://scholar.google.com/citations?user=KQlghMUAAAAJ&hl=en).
-
-**peer-reviewed article
+For a chronological overview, see [Google Scholar](https://scholar.google.com/citations?user=KQlghMUAAAAJ&hl=en). **peer-reviewed article
 
 ### **Environmental Data, Governance & Justice**
 
 **Schütz, Tim** and Su, Shan-Ya. (forthcoming). Korean translation of Data Activism and Petro-Public Knowledge "Across Borders". 
 
-Adams, James, **Tim Schütz**, and Kim Fortun. (2023). [Late Industrialism and the Work of Law: Relays Towards Just Transition](https://doi.org/10.1080/18752160.2023.2267338). *East Asian Science, Technology and Society: An International Journal (1)32*. **
+Adams, James, **Tim Schütz**, and Kim Fortun. (2023). Late Industrialism and the Work of Law: Relays Towards Just Transition. *East Asian Science, Technology and Society: An International Journal (1)32*. [link](https://doi.org/10.1080/18752160.2023.2267338) **
 
-**Schütz, Tim** and Kim Fortun. (2022). [In the Wake of Formosa Plastics: A Report from the Reaching For Just Transition Seminar Series](https://www.academia.edu/81249094/In_the_Wake_of_Formosa_Plastics_A_Report_from_the_Reaching_For_Just_Transition_Seminar_Series). _4S Backchannels_. June 6.
+**Schütz, Tim** and Kim Fortun. (2022). In the Wake of Formosa Plastics: A Report from the Reaching For Just Transition Seminar Series. _4S Backchannels_. June 6. (link)(https://www.academia.edu/81249094/In_the_Wake_of_Formosa_Plastics_A_Report_from_the_Reaching_For_Just_Transition_Seminar_Series)
 
-**Schütz, Tim**. 2021. [Archiving for the Anthropocene: Notes from the Field Campus](https://smartstore.naver.com/imadesignstore/products/5310169227). *Dear Amazon – On the Anthropocene 디어 아마존—인류세에 관하여*. Exhibition Catalogue. Ilmin Museum for Art, Seoul.
+**Schütz, Tim**. 2021. Archiving for the Anthropocene: Notes from the Field Campus. *Dear Amazon – On the Anthropocene 디어 아마존—인류세에 관하여*. Exhibition Catalogue. Ilmin Museum for Art, Seoul. [link, in Korean]((https://smartstore.naver.com/imadesignstore/products/5310169227))
 
-**Schütz, Tim**. [Visualizing Taiwan's Formosa Plastics](https://dl.acm.org/doi/pdf/10.1145/3470484). (2021). *ACM Interactions*, Vol. 28(4), pp. 50–55. 
+**Schütz, Tim**. Visualizing Taiwan's Formosa Plastics. (2021). *ACM Interactions*, Vol. 28(4), pp. 50–55. [link](https://dl.acm.org/doi/pdf/10.1145/3470484)
 
 **Schütz, Tim** and Shan-Ya Su. (2021, April 27). [Data Activism and Petro-Public Knowledge “Across Borders”: The Formosa Plastics Global Archive](http://blog.castac.org/2021/04/data-activism-and-petro-public-knowledge-across-borders-the-formosa-plastics-global-archive)  / [數據行動主義×跨界的石化公共知識：台灣塑膠檔案館](http://blog.castac.org/multilingual/%e6%95%b8%e6%93%9a%e8%a1%8c%e5%8b%95%e4%b8%bb%e7%be%a9x%e8%b7%a8%e7%95%8c%e7%9a%84%e7%9f%b3%e5%8c%96%e5%85%ac%e5%85%b1%e7%9f%a5%e8%ad%98%ef%bc%9a%e5%8f%b0%e7%81%a3%e5%a1%91%e8%86%a0%e6%aa%94)._Platypus.The CASTAC Blog_.
 
