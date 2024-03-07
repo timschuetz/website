@@ -10,7 +10,7 @@ For a chronological overview, see [Google Scholar](https://scholar.google.com/ci
 
 **peer-reviewed article
 
-### **Environmental Justice, Data & Governance**
+### **Environmental Data, Governance & Justice**
 
 **Schütz, Tim** and Su, Shan-Ya. (forthcoming). Korean translation of Data Activism and Petro-Public Knowledge "Across Borders". 
 
@@ -29,7 +29,7 @@ Adams, James, **Tim Schütz**, and Kim Fortun. (2023). [Late Industrialism and t
 **Schütz, Tim**. (2019). [Archiving for the Anthropocene: Notes from the Field Campus](http://blog.castac.org/2019/10/archiving-for-the-anthropocene-notes-from-the-field-campus/?fbclid=IwAR1GrKndGBMAFlnxyf_00WLlp6UlR7C75oZfxBdGMA7r4JucU9k-occwE1I). *Platypus*. October 29, 2019.
 \
 &nbsp;
-### **Open Science, Collaboration, Infrastructure**
+### **Open Science, Collaboration & Infrastructure**
 
 Invernizzi, Noela, Emily York, Clément Dréano, Duygu Kaşdoğan, Ali Kenner, Aalok Khandekar, Angela Okune, Grant Jun Otsuki, Sujatha Raman, **Tim Schütz**, Federico Vasen, and Amanda Windle. (2023). [Innovationism Across Transnational Landscapes](https://estsjournal.org/index.php/ests/article/view/2503). Engaging Science, Technology, and Society, 9(2), pp.1-8.
 
