@@ -8,9 +8,9 @@ description: "Publications"
 
 For a chronological overview, see [Google Scholar](https://scholar.google.com/citations?user=KQlghMUAAAAJ&hl=en).
 
-* peer-reviewed article/chapter 
+* peer-reviewed article
 
-### **Environmental Data, Governance & Justice**
+### **Environmental Justice, Data & Governance**
 
 **Schütz, Tim** and Su, Shan-Ya. (forthcoming). Korean translation of Data Activism and Petro-Public Knowledge "Across Borders". 
 
@@ -33,7 +33,7 @@ Fortun, Kim, James Adams, **Tim Schütz** and Scott G. Knowles. (2021). [Knowled
 Ludwig, Jason, **Tim Schütz**, Scott G. Knowles and Kim Fortun. (2019). [Tactics for Quotidian Anthropocenes: A Field Campus Report](https://www.anthropocene-curriculum.org/contribution/tactics-for-quotidian-anthropocenes). *Anthropocene Curriculum*. Berlin: Haus der Kulturen der Welt.
 \
 &nbsp;
-### **Open Science & Knowledge Infrastructure**
+### **Open Science, Collaboration, Infrastructure**
 
 Fortun, Kim, Mike Fortun, Angela Hitomi Skye Crandall Okune, **Tim Schütz**, Shan-Ya Su. (2021). [Civic Community Archiving with the Platform for Experimental Collaborative Ethnography: Double Binds and Design Challenges](http://centerforethnography.org/sites/default/files/artifacts/media/pdf/516458_1_en_3_chapter_onlinepdf_1.pdf). *HCI International 2021 Proceedings*.
 
@@ -45,10 +45,10 @@ Khandekar, Aalok, Clément Dréano, Noela Invernizzi, Duygu Kaşdoğan, Ali Kenn
 
 Okune, Angela, Grant Jun Otsuki , **Tim Schütz**, Clément Dréano, Noela Invernizzi, Aalok Khandekar, Duygu Kaşdoğan , Ali Kenner, Sujatha Raman, Federico Vasen, Amanda Windle, and Emily York. (2022). [Open Research Data: Experimenting Towards a Publishing Infrastructure](https://estsjournal.org/index.php/ests/article/view/1885). _Engaging Science, Technology, and Society_.
 
-Schütz, Tim. (2018). [Still “in its infancy”? Afterthoughts on the relevance of STS anchors in Germany](https://easst.net/article/still-in-its-infancy-afterthoughts-on-the-relevance-of-sts-anchors-in-germany/). *EASST Review* Vol. 37(4)*.
+**Schütz, Tim**. (2018). [Still “in its infancy”? Afterthoughts on the relevance of STS anchors in Germany](https://easst.net/article/still-in-its-infancy-afterthoughts-on-the-relevance-of-sts-anchors-in-germany/). *EASST Review* Vol. 37(4)*.
 \
 &nbsp;
-### **Digital Culture**
+### **Civic Technology and Digital Cultures**
 
 **Schütz, Tim** and Monic Meisel. (2020). [Free Wireless Network Activism and the Industrialized Media Infrastructures of Forced Migration](https://www.pmpress.org/index.php?l=product_detail&p=1097). In: McGuirk, Siobhán & Pine, Adrienne (eds.) *Asylum for Sale: Profit, and Protest in the Migration Industry*. Oakland: PM Press.
 
@@ -57,7 +57,6 @@ Schütz, Tim. (2018). [Still “in its infancy”? Afterthoughts on the relevanc
 **Schütz, Tim** and Monic Meisel. (2018). [Country Report Germany. From the shelter to the classroom: Two Case Studies Of Civic Participation Through Freifunk Berlin](https://giswatch.org/sites/default/files/gw2018_germany_0.pdf). *Global Information Society Watch Yearbook*. APC Press.
 
 Kubitschko, Sebastian and **Tim Schütz**. (2017). [Humanitarian media interventions: doing infrastructures in times of forced migration](https://spheres-journal.org/contribution/humanitarian-media-intervention-infrastructuring-in-times-of-forced-migration). *Spheres Journal for Digital Cultures* Vol. 3. *
-
 \
 &nbsp;
 ### Interviews
