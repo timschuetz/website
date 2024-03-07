@@ -8,19 +8,19 @@ description: "Publications"
 
 For a chronological overview, see [Google Scholar](https://scholar.google.com/citations?user=KQlghMUAAAAJ&hl=en).
 
-* peer-reviewed article
+**peer-reviewed article
 
 ### **Environmental Justice, Data & Governance**
 
 **Schütz, Tim** and Su, Shan-Ya. (forthcoming). Korean translation of Data Activism and Petro-Public Knowledge "Across Borders". 
 
-Adams, James, **Tim Schütz**, and Kim Fortun. (2023). [Late Industrialism and the Work of Law: Relays Towards Just Transition](https://doi.org/10.1080/18752160.2023.2267338). *East Asian Science, Technology and Society: An International Journal (1)32*. *
+Adams, James, **Tim Schütz**, and Kim Fortun. (2023). [Late Industrialism and the Work of Law: Relays Towards Just Transition](https://doi.org/10.1080/18752160.2023.2267338). *East Asian Science, Technology and Society: An International Journal (1)32*. **
 
 **Schütz, Tim** and Kim Fortun. (2022). [In the Wake of Formosa Plastics: A Report from the Reaching For Just Transition Seminar Series](https://www.academia.edu/81249094/In_the_Wake_of_Formosa_Plastics_A_Report_from_the_Reaching_For_Just_Transition_Seminar_Series). _4S Backchannels_. June 6.
 
 **Schütz, Tim**. 2021. [Archiving for the Anthropocene: Notes from the Field Campus](https://smartstore.naver.com/imadesignstore/products/5310169227). *Dear Amazon – On the Anthropocene 디어 아마존—인류세에 관하여*. Exhibition Catalogue. Ilmin Museum for Art, Seoul.
 
-Fortun, Kim, James Adams, **Tim Schütz** and Scott G. Knowles. (2021). [Knowledge infrastructure and research agendas for quotidian anthropocenes: critical localism with planetary scope](https://journals.sagepub.com/eprint/BHZNZTNVT9XZZQSCZ4JC/full). *Anthropocene Review*. *
+Fortun, Kim, James Adams, **Tim Schütz** and Scott G. Knowles. (2021). [Knowledge infrastructure and research agendas for quotidian anthropocenes: critical localism with planetary scope](https://journals.sagepub.com/eprint/BHZNZTNVT9XZZQSCZ4JC/full). *Anthropocene Review*. **
 
 **Schütz, Tim**. [Visualizing Taiwan's Formosa Plastics](https://dl.acm.org/doi/pdf/10.1145/3470484). (2021). *ACM Interactions*, Vol. 28(4), pp. 50–55. 
 
