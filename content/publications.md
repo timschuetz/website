@@ -54,7 +54,7 @@ Ludwig, Jason, **Tim Schütz**, Scott G. Knowles and Kim Fortun. (2019). [Tactic
 
 **Schütz, Tim** and Monic Meisel. (2018). [Country Report Germany. From the shelter to the classroom: Two Case Studies Of Civic Participation Through Freifunk Berlin](https://giswatch.org/sites/default/files/gw2018_germany_0.pdf). *Global Information Society Watch Yearbook*. APC Press.
 
-Kubitschko, Sebastian and **Tim Schütz**. (2017). [Humanitarian media interventions: doing infrastructures in times of forced migration](https://spheres-journal.org/contribution/humanitarian-media-intervention-infrastructuring-in-times-of-forced-migration). *Spheres Journal for Digital Cultures* Vol. 3. *
+Kubitschko, Sebastian and **Tim Schütz**. (2017). [Humanitarian media interventions: doing infrastructures in times of forced migration](https://spheres-journal.org/contribution/humanitarian-media-intervention-infrastructuring-in-times-of-forced-migration). *Spheres Journal for Digital Cultures* Vol. 3. **
 \
 &nbsp;
 ### Interviews
