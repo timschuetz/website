@@ -18,6 +18,20 @@ Kubitschko, Sebastian and Tim Schütz. (2017). [Humanitarian media interventions
 \
 &nbsp;
 
+##### Book Chapters
+
+(forthcoming). Korean translation of Data Activism and Petro-Public Knowledge "Across Borders". 
+
+Fortun, Kim, Mike Fortun, Angela Hitomi Skye Crandall Okune, Tim Schütz, Shan-Ya Su. (2021). [Civic Community Archiving with the Platform for Experimental Collaborative Ethnography: Double Binds and Design Challenges](http://centerforethnography.org/sites/default/files/artifacts/media/pdf/516458_1_en_3_chapter_onlinepdf_1.pdf). *HCI International 2021 Proceedings*.
+
+Schütz, Tim. 2021. [Archiving for the Anthropocene: Notes from the Field Campus](https://smartstore.naver.com/imadesignstore/products/5310169227). *Dear Amazon – On the Anthropocene 디어 아마존—인류세에 관하여*. Exhibition Catalogue. Ilmin Museum for Art, Seoul.
+
+Schütz, Tim and Monic Meisel. (2020). [Free Wireless Network Activism and the Industrialized Media Infrastructures of Forced Migration](https://www.pmpress.org/index.php?l=product_detail&p=1097). In: McGuirk, Siobhán & Pine, Adrienne (eds.) *Asylum for Sale: Profit, and Protest in the Migration Industry*. Oakland: PM Press.
+
+Schütz, Tim. (2019). [Humanitäre Medieninterventionen. Digitale Infrastruktur in Unterkünften für Geflüchtete](https://www.springer.com/de/book/9783658283797#aboutBook). In: Kaufmann, Nimführ, Otto & Schütte (eds.) *Forschen und Arbeiten im Kontext von Flucht. Reflexionslücken, Repräsentations- und Ethikfragen*. VS Springer.
+\
+&nbsp;
+
 ##### Public Writing
 
 Schütz, Tim. 2024. [Digital Archiving for Just Transitions](https://taiwaninsight.org/2024/05/03/digital-archiving-for-just-transitions/). *Taiwan Insight*. May 3. 
@@ -47,20 +61,6 @@ Ludwig, Jason, Tim Schütz, Scott G. Knowles and Kim Fortun. (2019). [Tactics fo
 Schütz, Tim. (2018). [Still “in its infancy”? Afterthoughts on the relevance of STS anchors in Germany](https://easst.net/article/still-in-its-infancy-afterthoughts-on-the-relevance-of-sts-anchors-in-germany/). *EASST Review* Vol. 37(4)*.
 
 Schütz, Tim and Monic Meisel. (2018). [Country Report Germany. From the shelter to the classroom: Two Case Studies Of Civic Participation Through Freifunk Berlin](https://giswatch.org/sites/default/files/gw2018_germany_0.pdf). *Global Information Society Watch Yearbook*. APC Press.
-\
-&nbsp;
-
-##### Book Chapters
-
-(forthcoming). Korean translation of Data Activism and Petro-Public Knowledge "Across Borders". 
-
-Fortun, Kim, Mike Fortun, Angela Hitomi Skye Crandall Okune, Tim Schütz, Shan-Ya Su. (2021). [Civic Community Archiving with the Platform for Experimental Collaborative Ethnography: Double Binds and Design Challenges](http://centerforethnography.org/sites/default/files/artifacts/media/pdf/516458_1_en_3_chapter_onlinepdf_1.pdf). *HCI International 2021 Proceedings*.
-
-Schütz, Tim. 2021. [Archiving for the Anthropocene: Notes from the Field Campus](https://smartstore.naver.com/imadesignstore/products/5310169227). *Dear Amazon – On the Anthropocene 디어 아마존—인류세에 관하여*. Exhibition Catalogue. Ilmin Museum for Art, Seoul.
-
-Schütz, Tim and Monic Meisel. (2020). [Free Wireless Network Activism and the Industrialized Media Infrastructures of Forced Migration](https://www.pmpress.org/index.php?l=product_detail&p=1097). In: McGuirk, Siobhán & Pine, Adrienne (eds.) *Asylum for Sale: Profit, and Protest in the Migration Industry*. Oakland: PM Press.
-
-Schütz, Tim. (2019). [Humanitäre Medieninterventionen. Digitale Infrastruktur in Unterkünften für Geflüchtete](https://www.springer.com/de/book/9783658283797#aboutBook). In: Kaufmann, Nimführ, Otto & Schütte (eds.) *Forschen und Arbeiten im Kontext von Flucht. Reflexionslücken, Repräsentations- und Ethikfragen*. VS Springer.
 \
 &nbsp;
 
