@@ -30,7 +30,23 @@ Khandekar, Aalok, Clément Dréano, Noela Invernizzi, Duygu Kaşdoğan, Ali Kenn
 
 Okune, Angela, Grant Jun Otsuki , Tim Schütz, Clément Dréano, Noela Invernizzi, Aalok Khandekar, Duygu Kaşdoğan , Ali Kenner, Sujatha Raman, Federico Vasen, Amanda Windle, and Emily York. (2022). [Open Research Data: Experimenting Towards a Publishing Infrastructure](https://estsjournal.org/index.php/ests/article/view/1885). _Engaging Science, Technology, and Society_.
 
-Schütz, Tim. (2021) [Visualizing Taiwan's Formosa Plastics](https://dl.acm.org/doi/pdf/10.1145/3470484). *ACM Interactions*, Vol. 28(4), pp. 50–55. 
+Schütz, Tim and Kim Fortun. (2022). [In the Wake of Formosa Plastics: A Report from the Reaching For Just Transition Seminar Series](https://www.academia.edu/81249094/In_the_Wake_of_Formosa_Plastics_A_Report_from_the_Reaching_For_Just_Transition_Seminar_Series). _4S Backchannels_. June 6.
+
+Schütz, Tim. (2022). [Civic Data and Infrastructure in Community-based Research](https://newkirkcenter.uci.edu/2022/02/24/civic-data-and-infrastructure-in-community-based-research/). _UCI Research Justice Shop_. February 24.
+
+Schütz, Tim. (2021) [Visualizing Taiwan's Formosa Plastics](https://dl.acm.org/doi/pdf/10.1145/3470484). *ACM Interactions*, Vol. 28(4), pp. 50–55.
+
+Schütz, Tim and Shan-Ya Su. (2021, April 27). [Data Activism and Petro-Public Knowledge “Across Borders”: The Formosa Plastics Global Archive](http://blog.castac.org/2021/04/data-activism-and-petro-public-knowledge-across-borders-the-formosa-plastics-global-archive)  / [數據行動主義×跨界的石化公共知識：台灣塑膠檔案館](http://blog.castac.org/multilingual/%e6%95%b8%e6%93%9a%e8%a1%8c%e5%8b%95%e4%b8%bb%e7%be%a9x%e8%b7%a8%e7%95%8c%e7%9a%84%e7%9f%b3%e5%8c%96%e5%85%ac%e5%85%b1%e7%9f%a5%e8%ad%98%ef%bc%9a%e5%8f%b0%e7%81%a3%e5%a1%91%e8%86%a0%e6%aa%94)._Platypus.The CASTAC Blog_.
+
+Schütz, Tim. (2020). [Ethnographers and Civic Data: Insights from Environmental Activists](https://boasblogs.org/fieldworkmeetscrisis/ethnographers-and-civic-data-infrastructure). _boasblogs/Fieldwork Meets Crisis_. October 29.
+
+Schütz, Tim. (2019). [Archiving for the Anthropocene: Notes from the Field Campus](http://blog.castac.org/2019/10/archiving-for-the-anthropocene-notes-from-the-field-campus/?fbclid=IwAR1GrKndGBMAFlnxyf_00WLlp6UlR7C75oZfxBdGMA7r4JucU9k-occwE1I). *Platypus*. October 29, 2019.
+
+Ludwig, Jason, Tim Schütz, Scott G. Knowles and Kim Fortun. (2019). [Tactics for Quotidian Anthropocenes: A Field Campus Report](https://www.anthropocene-curriculum.org/contribution/tactics-for-quotidian-anthropocenes). *Anthropocene Curriculum*. Berlin: Haus der Kulturen der Welt.
+
+Schütz, Tim. (2018). [Still “in its infancy”? Afterthoughts on the relevance of STS anchors in Germany](https://easst.net/article/still-in-its-infancy-afterthoughts-on-the-relevance-of-sts-anchors-in-germany/). *EASST Review* Vol. 37(4)*.
+
+Schütz, Tim and Monic Meisel. (2018). [Country Report Germany. From the shelter to the classroom: Two Case Studies Of Civic Participation Through Freifunk Berlin](https://giswatch.org/sites/default/files/gw2018_germany_0.pdf). *Global Information Society Watch Yearbook*. APC Press.
 \
 &nbsp;
 
@@ -47,25 +63,7 @@ Schütz, Tim and Monic Meisel. (2020). [Free Wireless Network Activism and the I
 Schütz, Tim. (2019). [Humanitäre Medieninterventionen. Digitale Infrastruktur in Unterkünften für Geflüchtete](https://www.springer.com/de/book/9783658283797#aboutBook). In: Kaufmann, Nimführ, Otto & Schütte (eds.) *Forschen und Arbeiten im Kontext von Flucht. Reflexionslücken, Repräsentations- und Ethikfragen*. VS Springer.
 \
 &nbsp;
-##### Blogs
 
-Schütz, Tim and Kim Fortun. (2022). [In the Wake of Formosa Plastics: A Report from the Reaching For Just Transition Seminar Series](https://www.academia.edu/81249094/In_the_Wake_of_Formosa_Plastics_A_Report_from_the_Reaching_For_Just_Transition_Seminar_Series). _4S Backchannels_. June 6.
-
-Schütz, Tim. (2022). [Civic Data and Infrastructure in Community-based Research](https://newkirkcenter.uci.edu/2022/02/24/civic-data-and-infrastructure-in-community-based-research/). _UCI Research Justice Shop_. February 24.
-
-Schütz, Tim and Shan-Ya Su. (2021, April 27). [Data Activism and Petro-Public Knowledge “Across Borders”: The Formosa Plastics Global Archive](http://blog.castac.org/2021/04/data-activism-and-petro-public-knowledge-across-borders-the-formosa-plastics-global-archive)  / [數據行動主義×跨界的石化公共知識：台灣塑膠檔案館](http://blog.castac.org/multilingual/%e6%95%b8%e6%93%9a%e8%a1%8c%e5%8b%95%e4%b8%bb%e7%be%a9x%e8%b7%a8%e7%95%8c%e7%9a%84%e7%9f%b3%e5%8c%96%e5%85%ac%e5%85%b1%e7%9f%a5%e8%ad%98%ef%bc%9a%e5%8f%b0%e7%81%a3%e5%a1%91%e8%86%a0%e6%aa%94)._Platypus.The CASTAC Blog_.
-
-Schütz, Tim. (2020). [Ethnographers and Civic Data: Insights from Environmental Activists](https://boasblogs.org/fieldworkmeetscrisis/ethnographers-and-civic-data-infrastructure). _boasblogs/Fieldwork Meets Crisis_. October 29.
-
-Schütz, Tim. (2019). [Archiving for the Anthropocene: Notes from the Field Campus](http://blog.castac.org/2019/10/archiving-for-the-anthropocene-notes-from-the-field-campus/?fbclid=IwAR1GrKndGBMAFlnxyf_00WLlp6UlR7C75oZfxBdGMA7r4JucU9k-occwE1I). *Platypus*. October 29, 2019.
-
-Ludwig, Jason, Tim Schütz, Scott G. Knowles and Kim Fortun. (2019). [Tactics for Quotidian Anthropocenes: A Field Campus Report](https://www.anthropocene-curriculum.org/contribution/tactics-for-quotidian-anthropocenes). *Anthropocene Curriculum*. Berlin: Haus der Kulturen der Welt.
-
-Schütz, Tim. (2018). [Still “in its infancy”? Afterthoughts on the relevance of STS anchors in Germany](https://easst.net/article/still-in-its-infancy-afterthoughts-on-the-relevance-of-sts-anchors-in-germany/). *EASST Review* Vol. 37(4)*.
-
-Schütz, Tim and Monic Meisel. (2018). [Country Report Germany. From the shelter to the classroom: Two Case Studies Of Civic Participation Through Freifunk Berlin](https://giswatch.org/sites/default/files/gw2018_germany_0.pdf). *Global Information Society Watch Yearbook*. APC Press.
-\
-&nbsp;
 ##### Interviews
 
 "[Trước Thảm Hoạ Formosa Chúng Ta Phải Làm Gì?](https://youtu.be/qEuRrKZxR_E)", *Saigon Broadcasting Television Network*, Feb 23, 2022. 
