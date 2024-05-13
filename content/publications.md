@@ -22,7 +22,9 @@ Kubitschko, Sebastian and Tim Schütz. (2017). [Humanitarian media interventions
 
 Schütz, Tim. 2024. [Digital Archiving for Just Transitions](https://taiwaninsight.org/2024/05/03/digital-archiving-for-just-transitions/). *Taiwan Insight*. May 3. 
 
-Invernizzi, Noela, Emily York, Clément Dréano, Duygu Kaşdoğan, Ali Kenner, Aalok Khandekar, Angela Okune, Grant Jun Otsuki, Sujatha Raman, Tim Schütz, Federico Vasen, and Amanda Windle. (2023). [Innovationism Across Transnational Landscapes](https://estsjournal.org/index.php/ests/article/view/2503). Engaging Science, Technology, and Society, 9(2), pp.1-8.
+Kenner, Ali, Clément Dréano, Noela Invernizzi, Duygu Kaşdoğan, Aalok Khandekar, Angela Okune, Grant Jun Otsuki, Sujatha Raman, Tim Schütz, Federico Vasen, and Amanda Windle. (2024). "[Caring for Scholarship in Transition](https://estsjournal.org/index.php/ests/article/view/2623)" _Engaging Science, Technology, and Society_, 9(3).
+
+Invernizzi, Noela, Emily York, Clément Dréano, Duygu Kaşdoğan, Ali Kenner, Aalok Khandekar, Angela Okune, Grant Jun Otsuki, Sujatha Raman, Tim Schütz, Federico Vasen, and Amanda Windle. (2023). [Innovationism Across Transnational Landscapes](https://estsjournal.org/index.php/ests/article/view/2503). _Engaging Science, Technology, and Society_, 9(2)
 
 Khandekar, Aalok, Clément Dréano, Noela Invernizzi, Duygu Kaşdoğan, Ali Kenner, Angela Okune, Grant Jun Otsuki, Sujatha Raman, Tim Schütz, Federico Vasen, Amanda Windle, and Emily York. (2022). [Pursuing Transnational STS at ESOCITE/4S Joint Conference](https://estsjournal.org/index.php/ests/article/view/2011). _Engaging Science, Technology, and Society_.
 
