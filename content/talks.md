@@ -9,11 +9,14 @@ description: "Talks"
 
 ##### Upcoming
 
-"Digital Archiving for Environmental Health and Justice: The Global Case of Formosa Plastics," invited by Prof. Dana Powell, Taipei Medical University. 
+Keynote, [How to do Social Learning in a Digital World? Designing Inclusive Platform Politics and Infrastructures towards Environmental Justice Workshop](https://www.sagw.ch/seg/aktuell/news/details/news/call-for-papers-how-to-do-social-learning-in-a-digital-world), University Bern, December 16–18.
+
 
 ---
 
 ##### Invited Talks
+
+"Digital Archiving for Environmental Health and Justice: The Global Case of Formosa Plastics," invited by Prof. Dana Powell, Taipei Medical University.
 
 "Analyzing Civic Data Cultures". Hack Your District, Taipei, Taiwan, invited by Jonas Fahlbusch. October 19, 2023.
 
