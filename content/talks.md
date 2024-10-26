@@ -16,6 +16,8 @@ Keynote, [How to do Social Learning in a Digital World? Designing Inclusive Plat
 
 ##### Invited Talks
 
+In-class lecture, Ecology and Economy, invited by Dr. Jorge Nuñez, University of Amsterdam, February 9.
+
 "Digital Archiving for Environmental Health and Justice: The Global Case of Formosa Plastics," invited by Prof. Dana Powell, Taipei Medical University.
 
 "Analyzing Civic Data Cultures". Hack Your District, Taipei, Taiwan, invited by Jonas Fahlbusch. October 19, 2023.
