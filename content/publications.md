@@ -10,6 +10,8 @@ description: "Publications"
 
 ##### Peer-Reviewed Articles
 
+Rubio, Juan Manuel, Bavisha Kaylan, Anthony Diaz, Patricia Flores, Maya Cheav, David C. Banuelas, Ashley Green, Annika Hjelmstad, Ariane Jong-Levinger, Tim Schütz, Maya Carrasquillo, Alana LeBron, and Jun Wu (in press). From the Ground Up: Community-Based Participatory Research Reclaiming the Science of Lead. *Environmental Justice*.
+
 Adams, James, Tim Schütz, and Kim Fortun. (2023). [Late Industrialism and the Work of Law: Relays Towards Just Transition](https://doi.org/10.1080/18752160.2023.2267338). *East Asian Science, Technology and Society: An International Journal (1)32*.
 
 Fortun, Kim, James Adams, Tim Schütz and Scott G. Knowles. (2021). [Knowledge infrastructure and research agendas for quotidian anthropocenes: critical localism with planetary scope](https://journals.sagepub.com/eprint/BHZNZTNVT9XZZQSCZ4JC/full). *Anthropocene Review*. 
@@ -65,8 +67,6 @@ Schütz, Tim and Monic Meisel. (2018). [Country Report Germany. From the shelter
 &nbsp;
 
 ##### Interviews
-
-"[Trước Thảm Hoạ Formosa Chúng Ta Phải Làm Gì?](https://youtu.be/qEuRrKZxR_E)", *Saigon Broadcasting Television Network*, Feb 23, 2022. 
 
 "[Chercheurs et activistes collectent les sombres archives de Formosa Plastics Corporation, le géant pétrochimique taïwanais](https://fr.rti.org.tw/radio/programMessageView/id/105518#.YNmdIk10UEB.twitter)", *Radio Taiwan International Français*, June 28, 2021.
 
