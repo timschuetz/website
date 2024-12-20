@@ -9,34 +9,31 @@ description: "Talks"
 
 ##### Upcoming
 
-Keynote, [How to do Social Learning in a Digital World? Designing Inclusive Platform Politics and Infrastructures towards Environmental Justice Workshop](https://www.sagw.ch/seg/aktuell/news/details/news/call-for-papers-how-to-do-social-learning-in-a-digital-world), University Bern, December 16–18.
-
-
 ---
 
 ##### Invited Talks
 
-In-class lecture, Ecology and Economy, invited by Dr. Jorge Nuñez, University of Amsterdam, February 9.
+"Civic Archiving with PECE", Keynote, [How to do Social Learning in a Digital World? Designing Inclusive Platform Politics and Infrastructures towards Environmental Justice Workshop](https://www.sagw.ch/seg/aktuell/news/details/news/call-for-papers-how-to-do-social-learning-in-a-digital-world), invited by Prof. Jeanne Féaux de la Croix, University of Bern, Switzerland, December 16–18.
 
-"Digital Archiving for Environmental Health and Justice: The Global Case of Formosa Plastics," invited by Prof. Dana Powell, Taipei Medical University.
+In-class lecture, "Informating Environmental Justice", In-class Lecture, Ecology and Economy, invited by Dr. Jorge Nuñez, University of Amsterdam, February 9.
 
-"Analyzing Civic Data Cultures". Hack Your District, Taipei, Taiwan, invited by Jonas Fahlbusch. October 19, 2023.
+"Digital Archiving for Environmental Health and Justice", invited by Prof. Dana Powell, Taipei Medical University.
 
-In-class lecture, Gaiapolitics, Ecology, and War, Session: "Taiwan in the Plasticene," invited by Prof. Paul Jobin, Academia Sinica, Taipei, Taiwan, September 28, 2023. [link](https://newdoc.nccu.edu.tw/teaschm/1121/schmPrv.jsp-yy=112&smt=1&num=204791&gop=00&s=1.html?fbclid=IwAR0ytJM1dpEwDfZ2ojskK6RMZYV2rHaJf6U6yoYhwJoRmBfB65YuUA_2qcs).
+"Analyzing Civic Data Cultures", Hack Your District, Taipei, Taiwan, invited by Jonas Fahlbusch. October 19, 2023.
 
-International Forum on Post-Disaster Recovery, invited by Prof. Hui-Nien Lin, National Pingtung University, Taiwan, June 17, 2023.
+"Taiwan in the Plasticene", In-class lecture, Gaiapolitics, Ecology, and War, invited by Prof. Paul Jobin, Academia Sinica, Taipei, Taiwan, September 28, 2023. [link](https://newdoc.nccu.edu.tw/teaschm/1121/schmPrv.jsp-yy=112&smt=1&num=204791&gop=00&s=1.html?fbclid=IwAR0ytJM1dpEwDfZ2ojskK6RMZYV2rHaJf6U6yoYhwJoRmBfB65YuUA_2qcs).
+
+Keynote, International Forum on Post-Disaster Recovery, invited by Prof. Hui-Nien Lin, National Pingtung University, Taiwan, June 17, 2023.
 
 In-class presentation. 2023. Globalization and Public Affairs, invited by Prof. Wen-Ling Tu, National Chengchi University Taipei, April 28.
 
 "Experiments in Collaboration: Purposes, Designs, Infrastructures". Appalachian State University, North Carolina, invited by Prof. Dana Powell, October 10, 2022
 
-"Civic Data, Archiving, and Environmental Injustice". Intro to Data Studies Course, invited by Lindsay Poirier, Smith College, April 1, 2022.
+"Civic Data and Environmental Injustice". Intro to Data Studies Course, invited by Lindsay Poirier, Smith College, April 1, 2022.
 
-"Formosa Plastics: Knowledge Infrastructures, Transnational Activism, and Climate Change". The Sea is Rising – And So are We? Klimawandel und sozialökologische Transformation, Bremen Nature Culture Lab Lecture Series, University of Bremen, January 13, 2022.
+“Knowledge Infrastructures, Transnational Activism, and Climate Change”. *Bremen NatureCultureLab*, University of Bremen, Germany, Jan 13, 2022.
 
 "Experiments in Collaboration: Purposes, Designs, Infrastructures, Invitations." Decolonizing Learning, Rethinking Research: Datafication and the Quest for Co-operation in Ethnographic Fieldwork, University of Cologne, October 27, 2021.
-
-"Research in Disastrous Times", American Advanced Educational Association, 7 July, 2021.
 
 "Infrastructures of ethnographic relation-making and comparing – PECE, for example." Colloquium, Laboratory: Anthropology of Environment / Human Relations, Humboldt University Berlin. June 14, 2021.
 
@@ -44,19 +41,15 @@ In-class presentation. 2023. Globalization and Public Affairs, invited by Prof. 
 
 “Following Taiwan’s Formosa Plastics." International Taiwan Studies Conference, University of California Irvine. 20-22 May 2021.
 
-“Pollution, Data, Activism: The Formosa Plastics Global Archive 污染，數據，行動主義台灣塑膠檔案館." Global Taipei Dialogue 全球台北論壇, invited by Taiwan NextGen Foundation, April 29, 2021.
-
-"Archiving for Quotidian Anthropocenes: Pollution, Data & Activism in a Planetary Scope". Environment, Politics, and Society Seminar, invited by Dr. Duygu Kasdogan, İzmir Katip Çelebi University, Turkey, March 22, 2021.
+"Pollution, Data & Activism in a Planetary Scope". Environment, Politics, and Society Seminar, invited by Dr. Duygu Kasdogan, İzmir Katip Çelebi University, Turkey, March 22, 2021.
 
 "Environmental Data Justice: Following Taiwan's Formosa Plastics", invited by Prof. TU Wen-Ling, National Chengchi University Taipei, March 18, 2020.
  
 “Archiving for the Anthropocene: Needs, Designs, Tactics.” Data Natures Seminar, invited by Prof. Tahani Nadim and Dr. Hagit Keysar, Institute for European Ethnology, Humboldt University Berlin, Germany, December 4, 2020 (with Jason Ludwig)
  
- "Civic Data for the Anthropocene: Following Taiwan's Formosa Plastics". RUSTLab Lecture Series: Data & Experimentalism, invited by Prof. Estrid Sørensen, Ruhr Universität Bochum, December 3, 2020. ([link](https://rustlab.ruhr-uni-bochum.de/rustlab-lectures/)).
+ "Civic Data for the Anthropocene". RUSTLab Lecture Series: Data & Experimentalism, invited by Prof. Estrid Sørensen, Ruhr Universität Bochum, December 3, 2020. ([link](https://rustlab.ruhr-uni-bochum.de/rustlab-lectures/)).
  
- "Civic Data: Needs, Designs, Tactics". Guest lecture for Introduction to Global Studies, invited by Prof. OU Tzu-Chi, National Chengchi University Taipei, December 2, 2020.
- 
- "Archivieren für das Anthropozän: Einsichten aus dem Umweltaktivismus". Department of History. Seminar: "Katastrophen(wissenschaften) in Geschichte und Gegenwart", invited by Dr. Cécile Stehrenberger, Bergische Universität Wuppertal, November 19, 2020.
+ "Archivieren für das Anthropozän". Department of History. Seminar: "Katastrophen(wissenschaften) in Geschichte und Gegenwart", invited by Dr. Cécile Stehrenberger, Bergische Universität Wuppertal, November 19, 2020.
  
  “Beyond Environmental Injustice: Installation Ethnography and Pedagogy in Covid-19.” Doctoral Students in Urban Planning (DSUP) Seminar Series, University of Illinois Urbana-Champaign, September 30, 2020 (with Prerna Srigyan).
  \
