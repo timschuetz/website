@@ -56,40 +56,36 @@ In-class presentation. 2023. Globalization and Public Affairs, invited by Prof. 
 &nbsp;
 ##### Conferences and Workshops
 
-"Civic Archiving and Data Sharing for Environmental Justice". Society for the Social Studies of Science (4S) Conference, Honululu, November 8-11, 2023, with Zoe Friese and Rex Simmons. 
+“Embodied Environmental Data” (with Lourdes Vera and Eric Nost), The First Conservation Data Justice Symposium, Girona, Spain, May 2024. 
 
-"Analyzing Formosa Plastics, Across Systems and Scales". Taiwan STS Annual Conference, September 2–3, 2023. 
+"Civic Archiving and Data Sharing for Environmental Justice" (with Zoe Friese and Rex Simmons), Society for the Social Studies of Science (4S) Conference, Honululu, November 8-11, 2023. 
 
-"Relays for Just Transition: Civic Archiving vs. Formosa Plastics Corporation." ESOCITE/4S, Cholula, Mexico, December 7, 2022.
+"Analyzing Formosa Plastics, Across Systems and Scales", Taiwan STS Annual Conference, September 2–3, 2023. 
 
-"In the Wake of Formosa Plastics: Rebuilding Coastal Communities." University of California, March 3, 2022. ([recording](https://disaster-sts-network.org/content/video-wake-formosa-plastics))
+"Relays for Just Transition: Civic Archiving vs. Formosa Plastics Corporation", ESOCITE/4S, Cholula, Mexico, December 7, 2022.
 
-"Archive Ethnography: Following Taiwan's Formosa Plastics". International Society for Ethnology and Folklore (SIEF) Congress 2021, 19-24 June 2021.
+"In the Wake of Formosa Plastics: Rebuilding Coastal Communities", University of California, March 3, 2022. ([recording](https://disaster-sts-network.org/content/video-wake-formosa-plastics))
 
-"Archiving for Quotidian Anthropocenes: From Los Angeles to Reserve, Louisiana and Istanbul." Istanbul Unbound Conference, April 8-11, 2021.
+"Archive Ethnography: Following Taiwan's Formosa Plastics", International Society for Ethnology and Folklore (SIEF) Congress 2021, 19-24 June 2021.
 
-"Archiving the Anthropocene(s): The Quotidian Anthropocenes Project". The Shape of a Practice. Haus der Kulturen der Welt Berlin, October 29, 2020 (with Jason Ludwig).
+"Quotidian Anthropocenes—From Los Angeles to Reserve, Louisiana and Istanbul", Istanbul Unbound Conference, April 8-11, 2021.
 
-"Ethnographers, Civic Data, COVID-19: Insights from Environmental Activists." Fieldwork Meets Crisis, Virtual Autumn School, October 23, 2020.
+"The Quotidian Anthropocenes Project", The Shape of a Practice. Haus der Kulturen der Welt Berlin, October 29, 2020 (with Jason Ludwig).
 
-"Civic Data and Case Study for Santa Ana, CA." Beyond Environmental Injustice. Disaster STS Research Network, October 23, 2020. ([link](https://disaster-sts-network.org/content/civic-data-and-case-study-santa-ana)). 
+"Ethnographers, Civic Data, COVID-19: Insights from Environmental Activists", Fieldwork Meets Crisis, Virtual Autumn School, October 23, 2020.
 
-"Civic Data for the Anthropocene: Visualizing Taiwan's Formosa Plastics." 4S/EASST Conference. August 2020.
+"Visualizing Taiwan's Formosa Plastics," 4S/EASST Conference. August 2020.
 
-"Installation Ethnography: Curation, Aesthetics, Experiments." 4S/EASST Conference. August 2020 (with James Adams).
+"Installation Ethnography: Curation, Aesthetics, Experiments" (with James Adams), 4S/EASST Conference. August 2020.
 
-“Archiving for the Anthropocene” The International Symposium on Anthropocene Studies, Seoul, December 10-11, 2019
+“Archiving for the Anthropocene”, The International Symposium on Anthropocene Studies, Seoul, December 10-11, 2019
 
-“Mississippi River Anthropocenes: Running the River School.” Society for the Social Studies of Science (4S) New Orleans, September 4-7, 2019.
+“Mississippi River Anthropocenes: Running the River School”, Society for the Social Studies of Science (4S) New Orleans, September 4-7, 2019.
 
 “Hacking the Shelter? Alternative Mesh networks and STS Research in Times of Forced Migration.” How can Science and Technology Studies help to reflect on the political crisis associated with refugees and asylum seekers? CES, Coimbra, Portugal, September 26-28, 2018.
 
-“Hacking the Shelter: Infrastructural “Counter Publics” and the Management of Forced Migration.” European Society for the Study of Science (EASST) and Technology Conference Lancaster, UK, July 25-27, 2018.
-
-“Wireless Network Activism In Times of Forced Migration.” Wireless Community Weekend, cbase Berlin, May 13, 2018.
+“Infrastructural “Counter Publics” and the Management of Forced Migration.” European Society for the Study of Science (EASST) and Technology Conference Lancaster, UK, July 25-27, 2018.
 
 “Humanitäre Medieninterventionen: Infrastrukturierung freier Datennetze zwischen sozialen Trägern, zivilem Engagement und Asylindustrie.” Willkommenskultur in der deutschen Migrationsgesellschaft: Flucht, Asyl und Regulierungspraxis. Workshop at Institute for Ethnology, LMU Munich, February 2-3, 2018.
 
-“Wie Freifunken in der Asylindustrie? Notizen aus der Partizipationsforschung.” Open Infrastructure Stage, 34C3 Chaos Communication Congress, Leipzig, December 30, 2017.
-
-”Humanitarian Media Intervention: Doing Free/Open Infrastructures in Times of Forced Migration.” Contested Borderscapes: Transnational Geographies vis-à-vis Fortress Europe, Mytilene, Greece, September 28-October 1, 2017.
+”Doing Free/Open Infrastructures in Times of Forced Migration.” Contested Borderscapes: Transnational Geographies vis-à-vis Fortress Europe, Mytilene, Greece, September 28-October 1, 2017.
