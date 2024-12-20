@@ -14,7 +14,7 @@ As part of my ongoing [dissertation project](https://disaster-sts-network.org/co
 
 I studied Media, Communication, and Cultural Research in Bremen and Istanbul (BA) and Science and Technology Studies (MA) in Frankfurt. I received scholarships from the Fulbright Foundation, German National Academic Foundation (Studienstiftung des Deutschen Volkes), Social Science Research Council (SSRC), and the Environmental Data Justice Fund (Windward Foundation). 
 
-I'm an active member of the Design Group for the [Platform for Experimental Collaborative Ethnography (PECE)](https://worldpece.org)and serve as open data editor for the journal [Engaging Science, Technology, and Society](https://estsjournal.org/index.php/ests).
+I'm an active member of the Design Group for the [Platform for Experimental Collaborative Ethnography (PECE)](https://worldpece.org) and serve as open data editor for the journal [Engaging Science, Technology, and Society](https://estsjournal.org/index.php/ests).
 
 You can reach me at [tschuetz@uci.edu](mailto:tschuetz.uci.edu).
 
