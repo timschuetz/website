@@ -30,7 +30,7 @@ menu:
           url: /teaching/
           weight: 5 
         - name: CV
-          url: /Schutz_Tim_CV.pdf
+          url: /Schutz_Tim_CV_.pdf
           weight: 6
 
 params:
