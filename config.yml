@@ -25,10 +25,10 @@ menu:
           weight: 3
         - name: Visual
           url: /visual/
-          weight: 4 
+          weight: 4
         - name: Teaching
           url: /teaching/
-          weight: 5 
+          weight: 5
         - name: CV
           url: https://drive.google.com/file/d/1okKzZGBb5P5YXcsJ6Qtmm7D97V13EyLk/view
           weight: 6
