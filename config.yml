@@ -30,7 +30,7 @@ menu:
           url: /teaching/
           weight: 5 
         - name: CV
-          url: /Schutz_Tim_CV_.pdf
+          url: https://drive.google.com/file/d/1okKzZGBb5P5YXcsJ6Qtmm7D97V13EyLk/view
           weight: 6
 
 params:
