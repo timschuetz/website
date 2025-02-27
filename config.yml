@@ -78,7 +78,7 @@ params:
             - name: Teaching
               url: /teaching/
             - name: CV
-              url: /Schutz_Tim_CV.pdf
+              url: https://drive.google.com/file/d/1okKzZGBb5P5YXcsJ6Qtmm7D97V13EyLk/view
               
     socialIcons:
         - name: Email
