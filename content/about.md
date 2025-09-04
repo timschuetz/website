@@ -6,7 +6,7 @@ hidemeta: true
 description: "About"
 ---
 
-I'm a social scientists, holding a PhD from the University of California, Irvine’s [Department of Anthropology](https://www.anthropology.uci.edu/) and currently an independent researcher affiliated with UC Irvine's [EcoGovLab](https://faculty.sites.uci.edu/fortunlab).
+I'm a social scientist, holding a PhD from the University of California, Irvine’s [Department of Anthropology](https://www.anthropology.uci.edu/) and currently an independent researcher affiliated with UC Irvine's [EcoGovLab](https://faculty.sites.uci.edu/fortunlab).
 
 My research and teaching focus on the mobilization of data across scientific fields, its role as evidence in legal contexts, and its significance as a shared reference point in social movements. I study how data practices evolve, the underlying infrastructures and ideologies that shape them, and the contextual factors shaping the analytical and political power of data.
 
