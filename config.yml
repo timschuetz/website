@@ -34,7 +34,7 @@ menu:
           weight: 6
 
 params:
-    description: "I'm a social scientist studying the role of data in environmental governance, research, and communication. Currently affiliated with EcoGovLab at the University of California, Irvine"
+    description: "I'm a social scientist studying the role of data in environmental governance, research, and communication. Currently affiliated with EcoGovLab at the University of California, Irvine."
     author: Tim Schütz
     googleAnalyticsID: ""
     DateFormat: "January 2006"
@@ -59,7 +59,7 @@ params:
     profileMode:
           enabled: true
           title: Tim Schütz
-          subtitle: "I'm a PhD student at University of California Irvine’s Department of Anthropology. I study the role of data in environmental politics, research, and communication."
+          subtitle: "I'm a social scientist studying the role of data in environmental governance, research, and communication. Currently affiliated with EcoGovLab at the University of California, Irvine."
           imageUrl: "https://pbs.twimg.com/profile_images/1850306863138770944/rZLxavvt_400x400.jpg"
           imageWidth: 170
           imageHeight: 170
