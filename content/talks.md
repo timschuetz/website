@@ -7,33 +7,35 @@ description: "Talks"
 ---
 
 
-##### Upcoming
+#### Future
 
 <img src="https://raw.githubusercontent.com/timschuetz/website/refs/heads/main/content/design/kaee2025.png" alt="isolated" width="500"/>
 
+#### Past
+
 ##### Invited Talks
 
-**2024** | "Civic Archiving with PECE", Keynote, [How to do Social Learning in a Digital World? Designing Inclusive Platform Politics and Infrastructures towards Environmental Justice Workshop](https://www.sagw.ch/seg/aktuell/news/details/news/call-for-papers-how-to-do-social-learning-in-a-digital-world), invited by Prof. Jeanne Féaux de la Croix, University of Bern, Switzerland, December 16–18.
+"Civic Archiving with PECE", Keynote, [How to do Social Learning in a Digital World? Designing Inclusive Platform Politics and Infrastructures towards Environmental Justice Workshop](https://www.sagw.ch/seg/aktuell/news/details/news/call-for-papers-how-to-do-social-learning-in-a-digital-world), invited by Prof. Jeanne Féaux de la Croix, University of Bern, Switzerland, December 16–18, 2024.
 
-**2023** | "Informating Environmental Justice", In-class Lecture, Ecology and Economy, invited by Dr. Jorge Nuñez, University of Amsterdam, February 9.
+"Informating Environmental Justice", In-class Lecture, Ecology and Economy, invited by Dr. Jorge Nuñez, University of Amsterdam, February 9.
 
-**2023** | "Digital Archiving for Environmental Health and Justice", Lecture, invited by Prof. Dana Powell, Taipei Medical University.
+"Digital Archiving for Environmental Health and Justice", Lecture, invited by Prof. Dana Powell, Taipei Medical University, March 19, 2023.
 
-**2023** | "Analyzing Civic Data Cultures", Lecture, Hack Your District, Taipei, Taiwan, invited by Jonas Fahlbusch. October 19.
+"Analyzing Civic Data Cultures", Lecture, Hack Your District, Taipei, Taiwan, invited by Jonas Fahlbusch. October 19, 2023.
 
-**2023** | "Taiwan in the Plasticene", In-class lecture  Gaiapolitics, Ecology, and War, invited by Prof. Paul Jobin, Academia Sinica, Taipei, Taiwan, September 28. [link](https://newdoc.nccu.edu.tw/teaschm/1121/schmPrv.jsp-yy=112&smt=1&num=204791&gop=00&s=1.html?fbclid=IwAR0ytJM1dpEwDfZ2ojskK6RMZYV2rHaJf6U6yoYhwJoRmBfB65YuUA_2qcs).
+"Taiwan in the Plasticene", In-class lecture  Gaiapolitics, Ecology, and War, invited by Prof. Paul Jobin, Academia Sinica, Taipei, Taiwan, September 28, 2023, [link](https://newdoc.nccu.edu.tw/teaschm/1121/schmPrv.jsp-yy=112&smt=1&num=204791&gop=00&s=1.html?fbclid=IwAR0ytJM1dpEwDfZ2ojskK6RMZYV2rHaJf6U6yoYhwJoRmBfB65YuUA_2qcs).
 
-**2023** | Keynote, International Forum on Post-Disaster Recovery, invited by Prof. Hui-Nien Lin, National Pingtung University, Taiwan, June 17.
+Keynote, International Forum on Post-Disaster Recovery, invited by Prof. Hui-Nien Lin, National Pingtung University, Taiwan, June 17, 2023.
 
-**2023** | In-class presentation. Globalization and Public Affairs, invited by Prof. Wen-Ling Tu, National Chengchi University Taipei, April 28.
+In-class presentation. Globalization and Public Affairs, invited by Prof. Wen-Ling Tu, National Chengchi University Taipei, April 28, 2023.
 
-**2022** | "Experiments in Collaboration: Purposes, Designs, Infrastructures". Appalachian State University, North Carolina, invited by Prof. Dana Powell, October 10.
+"Experiments in Collaboration: Purposes, Designs, Infrastructures". Appalachian State University, North Carolina, invited by Prof. Dana Powell, October 10, 2022.
 
-**2022** | "Civic Data and Environmental Injustice". Intro to Data Studies Course, invited by Lindsay Poirier, Smith College, April 1.
+"Civic Data and Environmental Injustice". Intro to Data Studies Course, invited by Lindsay Poirier, Smith College, April 1, 2022.
 
-**2022** | “Knowledge Infrastructures, Transnational Activism, and Climate Change”. *Bremen NatureCultureLab*, University of Bremen, Germany, January 13.
+“Knowledge Infrastructures, Transnational Activism, and Climate Change”. *Bremen NatureCultureLab*, University of Bremen, Germany, January 13, 2022.
 
-**2021** | "Experiments in Collaboration: Purposes, Designs, Infrastructures, Invitations." Decolonizing Learning, Rethinking Research: Datafication and the Quest for Co-operation in Ethnographic Fieldwork, University of Cologne, October 27.
+"Experiments in Collaboration: Purposes, Designs, Infrastructures, Invitations." Decolonizing Learning, Rethinking Research: Datafication and the Quest for Co-operation in Ethnographic Fieldwork, University of Cologne, October 27, 2021.
 
 "Infrastructures of ethnographic relation-making and comparing – PECE, for example." Colloquium, Laboratory: Anthropology of Environment / Human Relations, Humboldt University Berlin. June 14, 2021.
 
