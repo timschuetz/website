@@ -10,7 +10,7 @@ description: "Talks"
 ##### Upcoming
 
 
-
+![image](content/design/Archival Designs Experimenting with Ethnographic Knowledge in Anthropology and STS.png)
 
 
 ##### Invited Talks
