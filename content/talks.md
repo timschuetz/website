@@ -13,15 +13,15 @@ description: "Talks"
 
 A series of introductory workshops for using the Platform for Experimental Collaborative Ethnography (PECE) in research, teaching, and advocacy. Register [here](https://docs.google.com/forms/d/e/1FAIpQLScvPhlu8zJAjiQKZNXd1h7rIh_fgpYQ3VaqKjrC0zJDEopfBQ/viewform?usp=preview).
 
-PECE Workshop, University of Marburg, in cooperation with Ina Dietzsch), Novemeber 3, 2025
+PECE Workshop, University of Marburg, with Ina Dietzsch, Novemeber 3, 2025
 
-PECE Workshop, Goethe University Frankfurt, in cooperation with Catherine Whittaker, Ingmar Lippert and Martina Klausner, November 4, 2025
+PECE Workshop, Goethe University Frankfurt, with Catherine Whittaker, Ingmar Lippert and Martina Klausner, November 4, 2025
 
-PECE Workshop, Humbold University Berlin, in cooperation with Ignacio Farías, Milena Bister and Elisabeth Luggauer. November 11, 2025.
+PECE Workshop, Humbold University Berlin, with Ignacio Farías, Milena Bister and Elisabeth Luggauer. November 11, 2025.
 
-PECE Workshop, University of Bremen, in cooperation with Lina Franken, Martina Grimmig und Nurhak Polat, November 12, 2025.
+PECE Workshop, University of Bremen, with Lina Franken, Martina Grimmig und Nurhak Polat, November 12, 2025.
 
-PECE Workshop, Ruhr-University Bochum, in cooperation with RUSTlab, SFB1567 and Estrid Sørensen, November 13, 2025.
+PECE Workshop, Ruhr-University Bochum, with RUSTlab, SFB1567 and Estrid Sørensen, November 13, 2025.
 
 Keynote, Soiree, KAEE & STS, Goethe University Frankfurt, November 4, 2025.
 
