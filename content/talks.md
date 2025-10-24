@@ -24,7 +24,10 @@ PECE Workshop, University of Bremen, in cooperation with Lina Franken, Martina G
 PECE Workshop, Ruhr-University Bochum, in cooperation with RUSTlab, SFB1567 and Estrid Sørensen, November 13, 2025.
 
 Keynote, Soiree, KAEE & STS, Goethe University Frankfurt, November 4, 2025.
-<img src="https://raw.githubusercontent.com/timschuetz/website/refs/heads/main/content/design/kaee2025.png" alt="isolated" width="400"/>
+
+<a href="https://www.uni-frankfurt.de/178221698/Einladung_zur_Instituts_Soirée">
+    <img src="[path/to/image.jpg](https://raw.githubusercontent.com/timschuetz/website/refs/heads/main/content/design/kaee2025.png)" alt="isolated" width="400"/>
+</a>
 
 #### Past
 
