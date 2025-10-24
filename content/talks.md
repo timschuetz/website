@@ -9,9 +9,7 @@ description: "Talks"
 
 ##### Upcoming
 
-
-[image](content/design/Archival Designs Experimenting with Ethnographic Knowledge in Anthropology and STS.png)
-
+<img src="https://raw.githubusercontent.com/timschuetz/website/refs/heads/main/content/design/kaee2025.png" alt="isolated" width="200"/>
 
 ##### Invited Talks
 
