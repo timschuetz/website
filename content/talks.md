@@ -9,7 +9,9 @@ description: "Talks"
 
 ##### Upcoming
 
----
+
+
+
 
 ##### Invited Talks
 
@@ -55,6 +57,8 @@ In-class presentation. 2023. Globalization and Public Affairs, invited by Prof. 
  \
 &nbsp;
 ##### Conferences and Workshops
+
+"Documenting Environmental Procedural Injustice: Archival Tactics" (with Margaux Fisher), 4S Seattle, September 6, 2025.
 
 “Embodied Environmental Data” (with Lourdes Vera and Eric Nost), The First Conservation Data Justice Symposium, Girona, Spain, May 2024. 
 
