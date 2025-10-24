@@ -11,17 +11,17 @@ description: "Talks"
 
 **PECE Workshops 2025**
 
-I'll be giving a series of introductory workshops for using the Platform for Experimental Collaborative Ethnography (PECE). You can register [here](https://docs.google.com/forms/d/e/1FAIpQLScvPhlu8zJAjiQKZNXd1h7rIh_fgpYQ3VaqKjrC0zJDEopfBQ/viewform?usp=preview).
+A series of introductory workshops for using the Platform for Experimental Collaborative Ethnography (PECE) in research, teaching, and advocacy. Register [here](https://docs.google.com/forms/d/e/1FAIpQLScvPhlu8zJAjiQKZNXd1h7rIh_fgpYQ3VaqKjrC0zJDEopfBQ/viewform?usp=preview).
 
-Novemeber 3, University of Marburg (with Ina Dietzsch) 
+PECE Workshop, University of Marburg, in cooperation with Ina Dietzsch), Novemeber 3, 2025
 
-November 4, Goethe University Frankfurt (with Catherine Whittaker, Ingmar Lippert and Martina Klausner)
+PECE Workshop, Goethe University Frankfurt, in cooperation with Catherine Whittaker, Ingmar Lippert and Martina Klausner, November 4, 2025
 
-November 11, Humbold University Berlin (with Ignacio Farías, Milena Bister and Elisabeth Luggauer)
+PECE Workshop, Humbold University Berlin, in cooperation with Ignacio Farías, Milena Bister and Elisabeth Luggauer. November 11, 2025.
 
-November 12, University of Bremen (with Lina Franken, Martina Grimmig und Nurhak Polat)
+PECE Workshop, University of Bremen, in cooperation with Lina Franken, Martina Grimmig und Nurhak Polat, November 12, 2025.
 
-November 13, Ruhr-University Bochum (with RUSTlab, SFB1567 and Estrid Sørensen)
+PECE Workshop, Ruhr-University Bochum, in cooperation with RUSTlab, SFB1567 and Estrid Sørensen, November 13, 2025.
 
 Keynote, Soiree, KAEE & STS, Goethe University Frankfurt, November 4, 2025.
 <img src="https://raw.githubusercontent.com/timschuetz/website/refs/heads/main/content/design/kaee2025.png" alt="isolated" width="400"/>
