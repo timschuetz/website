@@ -11,7 +11,7 @@ description: "Talks"
 
 **PECE Workshops 2025**
 
-I'll be giving a series of introductory workshops for using the Platform for Experimental Collaborative Ethnography (PECE) for which you can register [here](https://docs.google.com/forms/d/e/1FAIpQLScvPhlu8zJAjiQKZNXd1h7rIh_fgpYQ3VaqKjrC0zJDEopfBQ/viewform?usp=preview).
+I'll be giving a series of introductory workshops for using the Platform for Experimental Collaborative Ethnography (PECE). You can register [here](https://docs.google.com/forms/d/e/1FAIpQLScvPhlu8zJAjiQKZNXd1h7rIh_fgpYQ3VaqKjrC0zJDEopfBQ/viewform?usp=preview).
 
 Novemeber 3, University of Marburg (with Ina Dietzsch) 
 November 4, Goethe University Frankfurt (with Catherine Whittaker, Ingmar Lippert and Martina Klausner)
