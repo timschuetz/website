@@ -9,7 +9,7 @@ description: "Talks"
 
 ##### Upcoming
 
-<img src="https://raw.githubusercontent.com/timschuetz/website/refs/heads/main/content/design/kaee2025.png" alt="isolated" width="200"/>
+<img src="https://raw.githubusercontent.com/timschuetz/website/refs/heads/main/content/design/kaee2025.png" alt="isolated" width="500"/>
 
 ##### Invited Talks
 
