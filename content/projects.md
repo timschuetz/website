@@ -1,7 +1,7 @@
 \
 &nbsp;
 ##### Environmental Injustice Global Record (2023–)
-explores how "the Anthropocene" is playing out on the ground in different settings. The aim is to create both situated, place-based and comparative perspective, building new modes of collective knowledge and action. [Project Website](https://www.disaster-sts-network.org/archive/artifact-text/quotidian-anthropocenes-shared-questions).
+a set of case studies and digital archives on environmental justice in California, Texas, North Carolina, the Navajo Nation, and Taiwan. [Project Website](https://disaster-sts-network.org/curate/pece-essay/project-portal-environmental-governance-global-record).
 \
 &nbsp;
 ##### Formosa Plastics Archive (2020–)
