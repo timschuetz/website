@@ -59,7 +59,7 @@ params:
     profileMode:
           enabled: true
           title: Tim Schütz
-          subtitle: "I'm a trained social scientist and digital designer working on environmental governance, politics, and pedagogy. I also help build design public knowledge infrastructures, community archives, and open-access teaching materials. Currently affiliated researcher with the EcoGovLab at the University of California, Irvine."
+          subtitle: "I'm a trained social scientist and digital designer working on environmental governance, politics, and pedagogy. I also help build public knowledge infrastructures, community archives, and open-access teaching materials. Currently affiliated researcher with the EcoGovLab at the University of California, Irvine."
           imageUrl: "https://pbs.twimg.com/profile_images/1850306863138770944/rZLxavvt_400x400.jpg"
           imageWidth: 170
           imageHeight: 170
