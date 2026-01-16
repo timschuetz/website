@@ -10,7 +10,7 @@ description: "Publications"
 
 ##### Peer-Reviewed Articles
 
-Rubio, Juan Manuel, Bavisha Kaylan, Anthony Diaz, Patricia Flores, Maya Cheav, David C. Banuelas, Ashley Green, Annika Hjelmstad, Ariane Jong-Levinger, Tim Schütz, Maya Carrasquillo, Alana LeBron, and Jun Wu (in press). From the Ground Up: Community-Based Participatory Research Reclaiming the Science of Lead. *Environmental Justice*.
+Rubio, Juan Manuel, Bavisha Kaylan, Anthony Diaz, Patricia Flores, Maya Cheav, David C. Banuelas, Ashley Green, Annika Hjelmstad, Ariane Jong-Levinger, Tim Schütz, Maya Carrasquillo, Alana LeBron, and Jun Wu (2025). [From the Ground Up: Community-Based Participatory Research Reclaiming the Science of Lead]([url](https://www.liebertpub.com/doi/10.1089/env.2024.0037)). *Environmental Justice*.
 
 Adams, James, Tim Schütz, and Kim Fortun. (2023). [Late Industrialism and the Work of Law: Relays Towards Just Transition](https://doi.org/10.1080/18752160.2023.2267338). *East Asian Science, Technology and Society: An International Journal (1)32*.
 
