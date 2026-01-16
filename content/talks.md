@@ -1,9 +1,9 @@
 ---
-title: "Speaking"
+title: "Talks"
 aliases:
     - /oh.html
 hidemeta: true
-description: "Speaking"
+description: "Talks"
 ---
 
 
