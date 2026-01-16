@@ -9,29 +9,36 @@ description: "Talks"
 
 #### Future
 
-**PECE Workshops 2025**
+#### Past
 
-A series of introductory workshops for using the Platform for Experimental Collaborative Ethnography (PECE) in research, teaching, and advocacy. Register [here](https://docs.google.com/forms/d/e/1FAIpQLScvPhlu8zJAjiQKZNXd1h7rIh_fgpYQ3VaqKjrC0zJDEopfBQ/viewform?usp=preview).
+##### PECE Workshops
 
-PECE Workshop, University of Marburg, with Ina Dietzsch, Novemeber 3, 2025
+*Introductory workshops for using the Platform for Experimental Collaborative Ethnography (PECE) in research, teaching, and advocacy. If you would like me to run a workshop, you can reach me at tschuetz(at)uci.edu.*
 
-PECE Workshop, Goethe University Frankfurt, with Catherine Whittaker, Ingmar Lippert and Martina Klausner, November 4, 2025
+Goethe University Frankfurt, with Fixing Futures Graduate Students, January 15, 2026.
 
-PECE Workshop, Humbold University Berlin, with Ignacio Farías, Milena Bister and Elisabeth Luggauer. November 11, 2025.
+Martin Luther University Halle, with Janine Hauer January 8, 2026.
 
-PECE Workshop, University of Bremen, with Lina Franken, Martina Grimmig und Nurhak Polat, November 12, 2025.
+Philipps University Marburg, with Ina Dietzsch, Novemeber 3, 2025
 
-PECE Workshop, Ruhr-University Bochum, with RUSTlab, SFB1567 and Estrid Sørensen, November 13, 2025.
+Goethe University Frankfurt, with Catherine Whittaker, Ingmar Lippert and Martina Klausner, November 4, 2025
+
+Humbold University Berlin, with Ignacio Farías, Milena Bister and Elisabeth Luggauer. November 11, 2025.
+
+University of Bremen, with Lina Franken, Martina Grimmig und Nurhak Polat, November 12, 2025.
+
+Ruhr-University Bochum, with RUSTlab, SFB1567 and Estrid Sørensen, November 13, 2025.
+
+
+##### Invited Talks
+
+"Archival Designs and the Informating of Environmentalism", Colloquium, invited by Patrick Bieler, Technical University Munich, January 12, 2026.
 
 Keynote, Soiree, KAEE & STS, Goethe University Frankfurt, November 4, 2025.
 
 <a href="https://www.uni-frankfurt.de/178221698/Einladung_zur_Instituts_Soirée">
     <img src="https://raw.githubusercontent.com/timschuetz/website/refs/heads/main/content/design/kaee2025.png" alt="isolated" width="400"/>
 </a>
-
-#### Past
-
-##### Invited Talks
 
 "Civic Archiving with PECE", Keynote, [How to do Social Learning in a Digital World? Designing Inclusive Platform Politics and Infrastructures towards Environmental Justice Workshop](https://www.sagw.ch/seg/aktuell/news/details/news/call-for-papers-how-to-do-social-learning-in-a-digital-world), invited by Prof. Jeanne Féaux de la Croix, University of Bern, Switzerland, December 16–18, 2024.
 
