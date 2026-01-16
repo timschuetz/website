@@ -36,7 +36,7 @@ Schütz, Tim. (2019). [Humanitäre Medieninterventionen. Digitale Infrastruktur 
 
 ##### Public Writing
 
-Kenner, Ali, Clément Dréano, Noela Invernizzi, Duygu Kaşdoğan, Aalok Khandekar, Angela Okune, Grant Jun Otsuki, Sujatha Raman, Tim Schütz, Federico Vasen, and Amanda Windle. (2026). [The Difference—and Promise—of ESTS](https://estsjournal.org/index.php/ests/article/view/3335). *Engaging Science, Technology, and Society*, 11(3).
+Khandekar, Aalok, Clément Dréano, Noela Invernizzi, Ali Kenner, Duygu Kaşdoğan, Grant Jun Otsuki, Angela Okune, Sujatha Raman, Tim Schütz, Federico Vasen, A N Windle, Emily York. (2026). [The Difference—and Promise—of ESTS](https://estsjournal.org/index.php/ests/article/view/3335). *Engaging Science, Technology, and Society*, 11(3).
 
 Schütz, Tim. 2024. [Digital Archiving for Just Transitions](https://taiwaninsight.org/2024/05/03/digital-archiving-for-just-transitions/). *Taiwan Insight*. May 3. 
 
