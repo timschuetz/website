@@ -1,4 +1,4 @@
-### Ongoing
+### Current
 
 ##### Environmental Injustice Global Record (2023–)
 a set of case studies and digital archives on environmental justice in California, Texas, North Carolina, the Navajo Nation, and Taiwan. [Project Website](https://disaster-sts-network.org/curate/pece-essay/project-portal-environmental-governance-global-record).
