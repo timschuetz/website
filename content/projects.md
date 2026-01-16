@@ -1,11 +1,15 @@
+### Ongoing
 \
 &nbsp;
 ##### Environmental Injustice Global Record (2023–)
 a set of case studies and digital archives on environmental justice in California, Texas, North Carolina, the Navajo Nation, and Taiwan. [Project Website](https://disaster-sts-network.org/curate/pece-essay/project-portal-environmental-governance-global-record).
 \
 &nbsp;
-##### Formosa Plastics Archive (2020–)
-a growing collection of reports, images and videos documenting the operations of the global petrochemical company Formosa Plastics. [Project Website](https://disaster-sts-network.org/content/formosa-plastics-archive/essay)
+
+### Past
+
+##### Formosa Plastics Archive (2020–2025)
+a collection of reports, images and videos documenting the operations of the global petrochemical company Formosa Plastics. [Project Website](https://disaster-sts-network.org/content/formosa-plastics-archive/essay)
 \
 &nbsp;
 ##### Quotidian Anthropocenes (2019–2020)
@@ -14,10 +18,6 @@ explores how "the Anthropocene" is playing out on the ground in different settin
 &nbsp;
 ##### Transnational STS COVID-19 Project (2020–2021)
 brings together researchers in the interdisciplinary field of Science and Technology Studies (STS) to follow and analyze COVID-19 as it plays out in different settings. [Project Website](https://disaster-sts-network.org/content/transnational-sts-covid-19-project/essay)
-\
-&nbsp;
-##### Beyond Environmental Injustice (2020–)
-this reseach and teaching collective supports educators working against environmental injustice in diverse settings, in diverse ways. It is open to all, including students who want to help us carry Beyond Environmental Injustice (B-EiJ) teaching forward in both formal and informal educational settings (working with kids, elders and all between). [Project Website](https://disaster-sts-network.org/content/beyond-environmental-injustice/essay)
 \
 &nbsp;
 ##### Visualizing Toxic Places (2018–2019)
