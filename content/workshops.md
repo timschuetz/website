@@ -8,7 +8,11 @@ description: "Workshops"
 
 ##### PECE Workshops
 
-*Introductory workshops for using the Platform for Experimental Collaborative Ethnography (PECE) in research, teaching, and advocacy. If you would like me to run a workshop, you can reach me at tschuetz(at)uci.edu.*
+Introductory workshops for using the Platform for Experimental Collaborative Ethnography (PECE) in research, teaching, and advocacy. If you would like me to run a workshop, you can reach me at tschuetz(at)uci.edu.
+
+### Future
+
+### Past
 
 Goethe University Frankfurt, with Fixing Futures Graduate Students, January 15, 2026.
 
