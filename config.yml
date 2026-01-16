@@ -69,14 +69,14 @@ params:
           buttons:
             - name: About
               url: /about/
-            - name: Publications
+            - name: Writing
               url: /publications/
             - name: Projects
               url: /projects/
             - name: Talks
               url: /talks/
-            - name: Visual
-              url: /visual/
+            - name: Workshops
+              url: /workshops/
             - name: Teaching
               url: /teaching/
             - name: CV
@@ -89,8 +89,6 @@ params:
           url: "https://scholar.google.com/citations?user=KQlghMUAAAAJ&hl=en"
         - name: LinkedIn
           url: "https://www.linkedin.com/in/tim-sch%C3%BCtz-0b6924127/"
-        - name: Twitter
-          url: "https://twitter.com/tmschtz"
         - name: YouTube
           url: "https://www.youtube.com/channel/UC9WaeK29i2L50pQ3osSrR8w?app=desktop"
         - name: GitHub
