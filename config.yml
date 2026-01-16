@@ -17,21 +17,24 @@ menu:
         - name: About
           url: /about/
           weight: 1
+        - name: Projects
+          url: /projects/
+          weight: 2
         - name: Writing
           url: /publications/
-          weight: 2
+          weight: 3
         - name: Talks
           url: /talks/
-          weight: 3
+          weight: 4
         - name: Visual
           url: /visual/
-          weight: 4
+          weight: 5
         - name: Teaching
           url: /teaching/
-          weight: 5
+          weight: 6
         - name: CV
           url: https://drive.google.com/file/d/1okKzZGBb5P5YXcsJ6Qtmm7D97V13EyLk/view
-          weight: 6
+          weight: 7
 
 params:
     description: "I'm a social scientist studying the role of data in environmental governance, research, and communication. Currently affiliated with EcoGovLab at the University of California, Irvine."
