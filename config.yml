@@ -7,7 +7,6 @@ enableInlineShortcodes: true
 enableRobotsTXT: true
 
 social:
-    twitter: tmschtz
 
 taxonomies:
     tag: tags
@@ -26,8 +25,8 @@ menu:
         - name: Talks
           url: /talks/
           weight: 4
-        - name: Visual
-          url: /visual/
+        - name: Workshops
+          url: /workshops/
           weight: 5
         - name: Teaching
           url: /teaching/
