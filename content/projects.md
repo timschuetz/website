@@ -1,3 +1,10 @@
+---
+title: "Projects"
+aliases:
+hidemeta: true
+description: "Projects"
+---
+
 ### Current
 
 ##### [Environmental Governance Global Record](https://disaster-sts-network.org/curate/pece-essay/project-portal-environmental-governance-global-record) (2023–)
