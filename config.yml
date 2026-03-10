@@ -15,14 +15,14 @@ menu:
         - name: About
           url: about/
           weight: 5 
-        - name: Projects
-              url: projects/
-          weight: 2
         - name: Writing
           url: papers/
+          weight: 2
+        - name: Talks
+          url: talks/
           weight: 3
-	- name: Talks
-              url: talks/
+        - name: Projects
+          url: projects/
           weight: 4 
         - name: Teaching
           url: courses/
@@ -66,11 +66,8 @@ params:
               url: projects/
             - name: Writing
               url: papers/
-            - name: Talks
-              url: talks/
-            - name: Teaching
-              url: courses/
-
+            - name: Courses
+              url: Teaching/
 
     socialIcons:
         - name: CV
