@@ -29,12 +29,6 @@ A landmark citizen’s lawsuit against Formosa Plastics Corporation in Seadrift,
 
 ---
 
-##### Figure 6: Some Uses For Olive Oil
-
-![](paper1.png)
-
----
-
 ##### Citation
 
-Unterholzer, Detlev A., and  Moritz-Maria von Igelfeld. 2013. "Unusual Uses For Olive Oil." *Journal of Oleic Science* 34 (1): 449–489. http://www.alexandermccallsmith.com/book/unusual-uses-for-olive-oil.
+Adams, J., Schütz, T., & Fortun, K. (2023). *Late industrialism, advocacy, and law: Relays toward just transition*. East Asian Science, Technology and Society: An International Journal, 17(4). https://doi.org/10.1080/18752160.2023.2267338.
