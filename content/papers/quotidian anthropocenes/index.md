@@ -6,7 +6,7 @@ author: ["Kim Fortun", "James Adams", "Tim Schütz", "Scott Gabriel Knowles"]
 description: "This paper outlines an approach to Anthropocene knowledge production centered on 'quotidian Anthropocenes' and collaborative public knowledge infrastructure."
 summary: "This article proposes new forms of collaborative knowledge infrastructure for studying the Anthropocene, emphasizing 'quotidian Anthropocenes' and partnerships between universities, cultural institutions, and local experts."
 cover:
-    image: "https://journals.sagepub.com/cms/10.1177/20530196211031972/asset/d86199c8-af9f-4aa5-b10e-57787b5f026c/assets/images/large/10.1177_20530196211031972-fig2.jpg"
+    image: ""
     alt: "Quotidian Anthropocene field campus research"
     relative: true
 editPost:
