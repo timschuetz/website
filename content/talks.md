@@ -6,11 +6,11 @@ hidemeta: true
 description: "Talks"
 ---
 
-#### Future
+## Future
 
 “Critical Studies of Corporate Harm” (with Daniel Akselrad, Dan Kabella, Kim Fortun, and Haley Lepp), 4S Toronto, 2026. [Submit paper](https://www.4sonline.org/call_for_submissions_toronto.php) (Deadline April 30, 2026).
 
-#### Past
+## Past
 
 ##### Invited Talks
 
