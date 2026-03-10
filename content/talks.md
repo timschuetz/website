@@ -6,8 +6,9 @@ hidemeta: true
 description: "Talks"
 ---
 
-
 #### Future
+
+“Critical Studies of Corporate Harm” (with Daniel Akselrad, Dan Kabella, Kim Fortun, and Haley Lepp), 4S Toronto, 2026. [Submit paper](https://www.4sonline.org/call_for_submissions_toronto.php) (Deadline April 30, 2026).
 
 #### Past
 
@@ -16,10 +17,6 @@ description: "Talks"
 "Archival Designs and the Informating of Environmentalism", Colloquium, invited by Patrick Bieler, Technical University Munich, January 12, 2026.
 
 Keynote, Soiree, KAEE & STS, Goethe University Frankfurt, November 4, 2025.
-
-<a href="https://www.uni-frankfurt.de/178221698/Einladung_zur_Instituts_Soirée">
-    <img src="https://raw.githubusercontent.com/timschuetz/website/refs/heads/main/content/design/kaee2025.png" alt="isolated" width="400"/>
-</a>
 
 "Civic Archiving with PECE", Keynote, [How to do Social Learning in a Digital World? Designing Inclusive Platform Politics and Infrastructures towards Environmental Justice Workshop](https://www.sagw.ch/seg/aktuell/news/details/news/call-for-papers-how-to-do-social-learning-in-a-digital-world), invited by Prof. Jeanne Féaux de la Croix, University of Bern, Switzerland, December 16–18, 2024.
 
@@ -52,13 +49,13 @@ In-class presentation. Globalization and Public Affairs, invited by Prof. Wen-Li
 "Pollution, Data & Activism in a Planetary Scope". Environment, Politics, and Society Seminar, invited by Dr. Duygu Kasdogan, İzmir Katip Çelebi University, Turkey, March 22, 2021.
 
 "Environmental Data Justice: Following Taiwan's Formosa Plastics", invited by Prof. TU Wen-Ling, National Chengchi University Taipei, March 18, 2020.
- 
+
 “Archiving for the Anthropocene: Needs, Designs, Tactics.” Data Natures Seminar, invited by Prof. Tahani Nadim and Dr. Hagit Keysar, Institute for European Ethnology, Humboldt University Berlin, Germany, December 4, 2020 (with Jason Ludwig)
- 
+
  "Civic Data for the Anthropocene". RUSTLab Lecture Series: Data & Experimentalism, invited by Prof. Estrid Sørensen, Ruhr Universität Bochum, December 3, 2020. ([link](https://rustlab.ruhr-uni-bochum.de/rustlab-lectures/)).
- 
+
  "Archivieren für das Anthropozän". Department of History. Seminar: "Katastrophen(wissenschaften) in Geschichte und Gegenwart", invited by Dr. Cécile Stehrenberger, Bergische Universität Wuppertal, November 19, 2020.
- 
+
  “Beyond Environmental Injustice: Installation Ethnography and Pedagogy in Covid-19.” Doctoral Students in Urban Planning (DSUP) Seminar Series, University of Illinois Urbana-Champaign, September 30, 2020 (with Prerna Srigyan).
  \
 &nbsp;
