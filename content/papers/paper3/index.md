@@ -1,52 +1,35 @@
 ---
-title: "Your Inner Hedgehog" 
-date: 2021-04-06
-tags: ["social psychology","inner hedgehog","academia","experimental psychology","invasive thoughts"]
-author: ["Hilda Schreiber-Ziegler", "Moritz-Maria von Igelfeld"]
-description: "This paper describes the inner hedgehog, a psychological condition widespread in academia. Published in the Journal of Socio-Experimental Psychology, 2021." 
-summary: "Using several case studies, this paper describes the inner hedgehog, a psychological condition widespread in academic occupations. The condition has lasting consequences and no known cure." 
+title: "Knowledge Infrastructure and Research Agendas for Quotidian Anthropocenes: Critical Localism with Planetary Scope"
+date: 2021-08-01
+tags: ["Anthropocene","knowledge infrastructure","STS","environmental governance","collaboration"]
+author: ["Kim Fortun", "James Adams", "Tim Schütz", "Scott Gabriel Knowles"]
+description: "This paper outlines an approach to Anthropocene knowledge production centered on 'quotidian Anthropocenes' and collaborative public knowledge infrastructure."
+summary: "This article proposes new forms of collaborative knowledge infrastructure for studying the Anthropocene, emphasizing 'quotidian Anthropocenes' and partnerships between universities, cultural institutions, and local experts."
 cover:
-    image: "paper3.png"
-    alt: "Vizualisation of an inner hedgehog"
+    image: "https://journals.sagepub.com/cms/10.1177/20530196211031972/asset/d86199c8-af9f-4aa5-b10e-57787b5f026c/assets/images/large/10.1177_20530196211031972-fig2.jpg"
+    alt: "Quotidian Anthropocene field campus research"
     relative: true
 editPost:
-    URL: "https://github.com/pmichaillat/hugo-website"
-    Text: "Journal of Socio-Experimental Psychology"
-
+    URL: "https://journals.sagepub.com/doi/full/10.1177/20530196211031972"
+    Text: "The Anthropocene Review"
 ---
 
 ---
 
 ##### Download
 
-+ [Paper](paper3.pdf)
-+ [Raw data](https://github.com/pmichaillat/michez-rule)
++ [Paper](https://journals.sagepub.com/doi/pdf/10.1177/20530196211031972)
 
 ---
 
 ##### Abstract
 
-Using several case studies, this paper describes the inner hedgehog, a psychological condition widespread in academic occupations. The condition has lasting consequences and no known cure. Mauris tincidunt quam a libero consequat, nec pharetra nunc tristique. Pellentesque eget ipsum ut dui laoreet congue ut nec nulla. Nulla facilisi. Sed consequat, odio ac aliquet tempor, turpis augue auctor mauris, at malesuada sem dolor eget libero. Nullam iaculis malesuada risus, id fringilla quam sagittis ac. Fusce congue vel ex et facilisis. Integer volutpat eros ut urna efficitur, id efficitur sapien pharetra.
+The Anthropocene requires the development of new forms of knowledge and supporting sociotechnical infrastructure. While interdisciplinary and community-engaged approaches have been widely advocated, there remains a need to develop and sustain modes of Anthropocene knowledge production that effectively link actors working at different scales and in different sites. This article describes one such approach centered on “quotidian Anthropocenes” and short-term field campuses that bring together researchers with community actors and cultural institutions. The project develops collaborative analytic frameworks and digital research environments to support the characterization of Anthropocene dynamics across ecological, technological, political, and cultural systems.
 
 ---
 
 ##### Citation
 
-Schreiber-Ziegler, Hilda, and Moritz-Maria von Igelfeld. 2021. "Your Inner Hedgehog." *Journal of Socio-Experimental Psychology* 131 (2): 1299–1302.
-
-```latex
-@article{SZI21,
-author = {Hilda Schreiber-Ziegler and Moritz-Maria von Igelfeld},
-year = {2021},
-title ={Your Inner Hedgehog},
-journal = {Journal of Socio-Experimental Psychology},
-volume = {131},
-number = {2},
-pages = {1299--1302}}
-```
-
----
-
-##### Related material
-
-+ [Nontechnical summary](https://www.alexandermccallsmith.com/book/your-inner-hedgehog)
+Fortun, Kim, James Adams, Tim Schütz, and Scott Gabriel Knowles. 2021.  
+"Knowledge Infrastructure and Research Agendas for Quotidian Anthropocenes: Critical Localism with Planetary Scope."  
+*The Anthropocene Review*. https://doi.org/10.1177/20530196211031972
