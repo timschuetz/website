@@ -18,5 +18,5 @@ I'm an active member of the Design Group for the [Platform for Experimental Coll
 
 You can reach me at [tschuetz@uci.edu](mailto:tschuetz.uci.edu) for questions, speaking engagements, and collaborations.
 
-
+![picture](/Users/timschutz/Documents/GitHub/website/static/picture.jpeg)
 
