@@ -16,7 +16,7 @@ menu:
           url: about/
           weight: 5 
         - name: Writing
-          url: publications/
+          url: papers/
           weight: 2
         - name: Talks
           url: talks/
@@ -24,7 +24,7 @@ menu:
         - name: Projects
           url: projects/
           weight: 4 
-        - name: Courses
+        - name: Teaching
           url: courses/
           weight: 6
 
@@ -60,20 +60,14 @@ params:
           imageWidth: 160
           imageHeight: 160
           buttons:
-            - name: Papers
+            - name: About
+              url: about/
+            - name: Projects
+              url: projects/
+            - name: Writing
               url: papers/
-            - name: Data
-              url: data/
-            - name: Books
-              url: books/
             - name: Courses
-              url: courses/
-            - name: Tags
-              url: tags/
-            - name: Archive
-              url: archive/
-            - name: Blog
-              url: https://en.wikipedia.org/wiki/Moritz-Maria_von_Igelfeld_(character)
+              url: Teaching/
 
     socialIcons:
         - name: CV
