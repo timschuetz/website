@@ -14,7 +14,7 @@ menu:
     main:
         - name: About
           url: about/
-          weight: 5 
+          weight: 1 
         - name: Writing
           url: papers/
           weight: 2
