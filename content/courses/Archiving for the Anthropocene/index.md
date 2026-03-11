@@ -1,8 +1,6 @@
 ---
 title: "Archiving for the Anthropocene"
 date: 2021-01-01
-role: "Lecturer"
-institution: "Goethe University Frankfurt"
 tags: ["Anthropocene","archives","knowledge infrastructure","environmental data","STS"]
 author: ["Tim Schütz"]
 description: "Course on the data and knowledge infrastructures needed to respond to the Anthropocene."
@@ -20,7 +18,7 @@ disableAnchoredHeadings: false
 
 ## Description
 
-**Archiving for the Anthropocene (2021)** was taught at Goethe University Frankfurt as part of a summer session focused on environmental knowledge infrastructures.
+**Archiving for the Anthropocene** was taught at **Goethe University Frankfurt** as part of a summer session focused on environmental knowledge infrastructures.
 
 The course examined the data and archival systems needed to understand and respond to environmental change in the Anthropocene. Students explored how environmental right-to-know databases, community archives, museums, and other cultural institutions collect and organize information about environmental harm and environmental governance.
 
