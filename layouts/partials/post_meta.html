@@ -16,33 +16,37 @@
 <p class="p1"><span class="s1">{{- $scratch := newScratch }}</span></p>
 <p class="p2"><span class="s1"></span><br></p>
 <p class="p1"><span class="s1">{{- if not .Date.IsZero -}}</span></p>
-<p class="p1"><span class="s1">{{- $scratch.Add "meta" (slice (printf "%s" (.Date) (.Date | time.Format (default "January 2, 2006" site.Params.DateFormat)))) }}</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">  </span>{{- $scratch.Add "meta" (slice (.Date | time.Format (default "January 2, 2006" site.Params.DateFormat))) }}</span></p>
 <p class="p1"><span class="s1">{{- end }}</span></p>
 <p class="p2"><span class="s1"></span><br></p>
 <p class="p1"><span class="s1">{{- if (.Param "ShowReadingTime") -}}</span></p>
-<p class="p1"><span class="s1">{{- $scratch.Add "meta" (slice (i18n "read_time" .ReadingTime | default (printf "%d min" .ReadingTime))) }}</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">  </span>{{- $scratch.Add "meta" (slice (i18n "read_time" .ReadingTime | default (printf "%d min" .ReadingTime))) }}</span></p>
 <p class="p1"><span class="s1">{{- end }}</span></p>
 <p class="p2"><span class="s1"></span><br></p>
 <p class="p1"><span class="s1">{{- if (.Param "ShowWordCount") -}}</span></p>
-<p class="p1"><span class="s1">{{- $scratch.Add "meta" (slice (i18n "words" .WordCount | default (printf "%d words" .WordCount))) }}</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">  </span>{{- $scratch.Add "meta" (slice (i18n "words" .WordCount | default (printf "%d words" .WordCount))) }}</span></p>
 <p class="p1"><span class="s1">{{- end }}</span></p>
 <p class="p2"><span class="s1"></span><br></p>
 <p class="p1"><span class="s1">{{- if not (.Param "hideAuthor") -}}</span></p>
-<p class="p1"><span class="s1">{{- with (partial "author.html" .) }}</span></p>
-<p class="p1"><span class="s1">{{- $scratch.Add "meta" (slice .) }}</span></p>
-<p class="p1"><span class="s1">{{- end }}</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">  </span>{{- with (partial "author.html" .) }}</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">    </span>{{- $scratch.Add "meta" (slice .) }}</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">  </span>{{- end }}</span></p>
 <p class="p1"><span class="s1">{{- end }}</span></p>
 <p class="p2"><span class="s1"></span><br></p>
 <p class="p1"><span class="s1">{{- with .Params.role }}</span></p>
-<p class="p1"><span class="s1">{{- $scratch.Add "meta" (slice .) }}</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">  </span>{{- $scratch.Add "meta" (slice .) }}</span></p>
 <p class="p1"><span class="s1">{{- end }}</span></p>
 <p class="p2"><span class="s1"></span><br></p>
 <p class="p1"><span class="s1">{{- with .Params.institution }}</span></p>
-<p class="p1"><span class="s1">{{- $scratch.Add "meta" (slice .) }}</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">  </span>{{- $scratch.Add "meta" (slice .) }}</span></p>
+<p class="p1"><span class="s1">{{- end }}</span></p>
+<p class="p2"><span class="s1"></span><br></p>
+<p class="p1"><span class="s1">{{- with .Params.editPost.URL }}</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">  </span>{{- $scratch.Add "meta" (slice (printf "&lt;a href=\"%s\"&gt;%s&lt;/a&gt;" . $.Params.editPost.Text)) }}</span></p>
 <p class="p1"><span class="s1">{{- end }}</span></p>
 <p class="p2"><span class="s1"></span><br></p>
 <p class="p1"><span class="s1">{{- with ($scratch.Get "meta") }}</span></p>
-<p class="p1"><span class="s1">{{- delimit . " · " | safeHTML -}}</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">  </span>{{- delimit . " · " | safeHTML -}}</span></p>
 <p class="p1"><span class="s1">{{- end -}}</span></p>
 </body>
 </html>
