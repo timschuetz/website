@@ -25,8 +25,11 @@ menu:
           url: projects/
           weight: 4 
         - name: Teaching
-          url: teaching/
+          url: courses/
           weight: 5
+        - name: CV
+          url: cv.pdf
+          weight: 6
 
 params:
     description: "I'm a social scientist studying the role of data in environmental governance, research, and communication. Currently affiliated with EcoGovLab at the University of California, Irvine."
@@ -69,7 +72,9 @@ params:
             - name: Talks
               url: talks/
             - name: Teaching
-              url: teaching/
+              url: courses/
+            - name: CV
+              url: cv.pdf
 
     socialIcons:
         - name: CV
