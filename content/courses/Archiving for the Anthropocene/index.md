@@ -1,6 +1,8 @@
 ---
 title: "Archiving for the Anthropocene"
 date: 2021-01-01
+role: "Lecturer"
+institution: "Goethe University Frankfurt"
 tags: ["Anthropocene","archives","knowledge infrastructure","environmental data","STS"]
 author: ["Tim Schütz"]
 description: "Course on the data and knowledge infrastructures needed to respond to the Anthropocene."
