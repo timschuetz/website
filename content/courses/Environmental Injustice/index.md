@@ -6,7 +6,7 @@ institution: "University of California, Irvine"
 years_taught: "2019–2025"
 course_type: "Lower-division undergraduate course"
 tags: ["teaching","environmental justice","anthropology","California"]
-author: ["Tim Schütz", "Kim Fortun" "25A Teaching Team"]
+author: ["Tim Schütz", "Kim Fortun", "25A Teaching Team"]
 description: "Lower-division undergraduate course on environmental injustice offered at UC Irvine."
 summary: "Students research and produce case studies of environmental injustice across California."
 cover:
