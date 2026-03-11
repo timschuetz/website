@@ -6,7 +6,7 @@ author: ["Dieter Vogelsang","Moritz-Maria von Igelfeld"]
 description: "This undergraduate course discusses profanity in Early Irish." 
 summary: "This undergraduate course discusses profanity in Early Irish, and relates such profanity to profanity in modern English." 
 cover:
-    image: "course2.png"
+    image: ""
     alt: "Figure caption"
     relative: true
 editPost:
