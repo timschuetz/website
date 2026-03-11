@@ -6,7 +6,7 @@ author: ["James Adams","Tim Schütz","Kim Fortun"]
 description: "This paper reviews unusual uses for olive oil throughout the Mediterranean world. Published in the Journal of Oleic Science, 2013." 
 summary: "This paper examines how a landmark citizen lawsuit against Formosa Plastics in Seadrift, Texas generated a $20 million fund for ecological restoration and sustainable fisheries, highlighting the complex, multi-stage legal and advocacy work required to pursue environmental justice and a just transition in late industrial contexts." 
 cover:
-    image: ""
+    image: "content/papers/relays-toward-just-transition/calhoun.png"
     alt: "Late Industrialism, Advocacy, and Law: Relays Toward Just Transition"
     relative: true
 editPost:
