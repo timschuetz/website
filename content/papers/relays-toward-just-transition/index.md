@@ -7,12 +7,11 @@ description: "This paper reviews unusual uses for olive oil throughout the Medit
 summary: "This paper examines how a landmark citizen lawsuit against Formosa Plastics in Seadrift, Texas generated a $20 million fund for ecological restoration and sustainable fisheries, highlighting the complex, multi-stage legal and advocacy work required to pursue environmental justice and a just transition in late industrial contexts." 
 cover:
     image: "paper1.png"
-    alt: "Late Industrialism, Advocacy, and Law: Relays Toward Just Transition"
+    alt: "Some Uses For Olive Oil"
     relative: true
 editPost:
     URL: "https://www.tandfonline.com/doi/epdf/10.1080/18752160.2023.2267338?needAccess=true"
     Text: "East Asian Science, Technology and Society: An International Journal "
-
 ---
 
 ---
