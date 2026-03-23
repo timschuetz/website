@@ -18,9 +18,16 @@
 <p class="p1"><span class="s1">&lt;article class="post-single"&gt;</span></p>
 <p class="p1"><span class="s1"><span class="Apple-converted-space">  </span>&lt;header class="post-header"&gt;</span></p>
 <p class="p1"><span class="s1"><span class="Apple-converted-space">    </span>{{ partial "breadcrumbs.html" . }}</span></p>
-<p class="p1"><span class="s1"><span class="Apple-converted-space">    </span>&lt;h1 class="post-title"&gt;</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">    </span>&lt;h1 class="post-title entry-hint-parent"&gt;</span></p>
 <p class="p1"><span class="s1"><span class="Apple-converted-space">      </span>{{ .Title }}</span></p>
-<p class="p1"><span class="s1"><span class="Apple-converted-space">      </span>{{- if .Draft }}&lt;sup&gt;&lt;span class="entry-isdraft"&gt;&amp;nbsp;&amp;nbsp;[draft]&lt;/span&gt;&lt;/sup&gt;{{- end }}</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">      </span>{{- if .Draft }}</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">      </span>&lt;span class="entry-hint" title="Draft"&gt;</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">        </span>&lt;svg xmlns="http://www.w3.org/2000/svg" height="42" viewBox="0 -960 960 960" fill="currentColor"&gt;</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">          </span>&lt;path</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">            </span>d="M160-410v-60h300v60H160Zm0-165v-60h470v60H160Zm0-165v-60h470v60H160Zm360 580v-123l221-220q9-9 20-13t22-4q12 0 23 4.5t20 13.5l37 37q9 9 13 20t4 22q0 11-4.5 22.5T862.09-380L643-160H520Zm300-263-37-37 37 37ZM580-220h38l121-122-18-19-19-18-122 121v38Zm141-141-19-18 37 37-18-19Z" /&gt;</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">        </span>&lt;/svg&gt;</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">      </span>&lt;/span&gt;</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">      </span>{{- end }}</span></p>
 <p class="p1"><span class="s1"><span class="Apple-converted-space">    </span>&lt;/h1&gt;</span></p>
 <p class="p1"><span class="s1"><span class="Apple-converted-space">    </span>{{- if not (.Param "hideMeta") }}</span></p>
 <p class="p1"><span class="s1"><span class="Apple-converted-space">    </span>&lt;div class="post-meta"&gt;</span></p>
@@ -31,8 +38,8 @@
 <p class="p1"><span class="s1"><span class="Apple-converted-space">    </span>&lt;/div&gt;</span></p>
 <p class="p1"><span class="s1"><span class="Apple-converted-space">    </span>{{- end }}</span></p>
 <p class="p1"><span class="s1"><span class="Apple-converted-space">  </span>&lt;/header&gt;</span></p>
-<p class="p1"><span class="s1"><span class="Apple-converted-space">  </span>{{- $isHidden := .Params.cover.hidden | default site.Params.cover.hiddenInSingle | default site.Params.cover.hidden }}</span></p>
-<p class="p1"><span class="s1"><span class="Apple-converted-space">  </span>{{- partial "cover.html" (dict "cxt" . "IsHome" false "isHidden" $isHidden) }}</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">  </span>{{- $isHidden := (.Param "cover.hiddenInSingle") | default (.Param "cover.hidden") | default false }}</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">  </span>{{- partial "cover.html" (dict "cxt" . "IsSingle" true "isHidden" $isHidden) }}</span></p>
 <p class="p1"><span class="s1"><span class="Apple-converted-space">  </span>{{- if (.Param "ShowToc") }}</span></p>
 <p class="p1"><span class="s1"><span class="Apple-converted-space">  </span>{{- partial "toc.html" . }}</span></p>
 <p class="p1"><span class="s1"><span class="Apple-converted-space">  </span>{{- end }}</span></p>
