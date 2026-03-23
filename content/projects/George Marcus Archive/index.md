@@ -36,4 +36,4 @@ The project is part of a broader initiative to build the Critical Cultural Theor
 
 #### Citation
 
-Schütz, Tim, Mike Fortun, and Kim Fortun. 2025. *The George E. Marcus Archive.* *UCI Center for Ethnography*. https://www.centerforethnography.org/curate/pece-essay/george-e-marcus-archive
+Schütz, Tim, Mike Fortun, and Kim Fortun. 2025. *The George E. Marcus Archive.* *UCI Center for Ethnography*. https://www.centerforethnography.org/curate/pece-essay/george-e-marcus-archive 
