@@ -8,7 +8,7 @@ summary: "A digital archive project focused on George E. Marcus and his career-l
 cover:
     image: "gmarchive.png"
     alt: "The George E. Marcus Archive"
-    relative: true
+    relative: false
 editPost:
     URL: "https://www.centerforethnography.org/curate/pece-essay/george-e-marcus-archive"
     Text: "UCI Center for Ethnography"
