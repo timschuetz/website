@@ -16,8 +16,6 @@ showToc: false
 disableAnchoredHeadings: false
 ---
 
----
-
 #### Description
 
 ![The George E. Marcus Archive](gmarchive.png)
