@@ -6,8 +6,8 @@ author: ["James Adams","Tim Schütz","Kim Fortun"]
 description: "This paper reviews unusual uses for olive oil throughout the Mediterranean world. Published in the Journal of Oleic Science, 2013." 
 summary: "This paper examines how a landmark citizen lawsuit against Formosa Plastics in Seadrift, Texas generated a $20 million fund for ecological restoration and sustainable fisheries, highlighting the complex, multi-stage legal and advocacy work required to pursue environmental justice and a just transition in late industrial contexts." 
 cover:
-    image: "paper1.png"
-    alt: "Some Uses For Olive Oil"
+    image: 
+    alt: 
     relative: true
 editPost:
     URL: "https://www.tandfonline.com/doi/epdf/10.1080/18752160.2023.2267338?needAccess=true"
