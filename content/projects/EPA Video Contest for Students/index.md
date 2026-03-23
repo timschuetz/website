@@ -4,7 +4,7 @@ date: 2023-05-24
 tags: ["environmental justice","lead contamination","community science","science communication","UC Irvine"]
 author: ["Tim Schütz", "Annika Hjelmstad", "Ariane Jong-Levinger", "Ashley Green", "Alexis Guerra", "Caroline Nguyen", "David Christopher Banuelas"]
 description: "Two award-winning videos produced with UC Irvine students and Orange County Environmental Justice addressing soil lead contamination in Santa Ana, California."
-summary: "A collaborative project with UC Irvine students and Orange County Environmental Justice that produced two award-winning videos for the U.S. EPA Environmental Justice Video Challenge."
+summary: "A collaborative project with Orange County Environmental Justice that produced two award-winning videos for the U.S. EPA Environmental Justice Video Challenge."
 cover:
     image: ""
     alt: "EPA Environmental Justice Video Challenge"
