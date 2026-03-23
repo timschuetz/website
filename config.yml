@@ -87,12 +87,15 @@ params:
           url: https://github.com/timschuetz
         - name: Bluesky
           url: https://bsky.app/profile/timschutz.bsky.social
+        - name: Orcid
+          url: https://orcid.org/0000-0002-4043-9611
 
     assets:
+        disableHLJS: true
         disableScrollBarStyle: true
     cover:
         hiddenInList: false
-        hiddenInSingle: false
+        hiddenInSingle: true
     label:
       text: "Tim Schütz"
       icon: favicon.ico
