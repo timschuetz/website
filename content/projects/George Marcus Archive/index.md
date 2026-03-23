@@ -16,8 +16,6 @@ showToc: false
 disableAnchoredHeadings: false
 ---
 
----
-
 #### Description
 
 The George E. Marcus Archive is a digital archive project focused on documenting the intellectual and institutional contributions of anthropologist George E. Marcus. The archive revolves Marcus’s career-long efforts to remake ethnographic research for contemporary conditions, including experiments in collaborative anthropology, multi-sited ethnography, and new forms of ethnographic knowledge production.
