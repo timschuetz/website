@@ -32,7 +32,7 @@ menu:
           weight: 6
 
 params:
-    description: I’m a social scientist working on the politics of data, digital cultures, and knowledge infrastructures. My work focuses on how environmental data is made and used—especially around industrial pollution and disaster. I’m currently with the EcoGovLab at UC Irvine, and in summer 2026 I’ll be starting a Marie Skłodowska-Curie postdoc at the IT University of Copenhagen."
+    description: "I’m a social scientist working on the politics of data, knowledge infrastructures, and digital cultures. My recent work focuses on how environmental data is made and used, especially around industrial pollution, disaster, and environmental justice. I’m currently a member of the EcoGovLab at UC Irvine, and in summer 2026 I’ll be starting a Marie Skłodowska-Curie postdoc at the IT University of Copenhagen."
     author: Tim Schütz
     # googleAnalyticsID: "G-XXXXX"
     DateFormat: "January 2006"
@@ -58,7 +58,7 @@ params:
     profileMode:
           enabled: true
           title: Tim Schütz
-          subtitle: "I’m a social scientist working on the politics of data, digital cultures, and knowledge infrastructures. My work focuses on how environmental data is made and used—especially around industrial pollution and disaster. I’m currently with the EcoGovLab at UC Irvine, and in summer 2026 I’ll be starting a Marie Skłodowska-Curie postdoc at the IT University of Copenhagen."
+          subtitle: "I’m a social scientist working on the politics of data, knowledge infrastructures, and digital cultures. My recent work focuses on how environmental data is made and used, especially around industrial pollution, disaster, and environmental justice. I’m currently a member of the EcoGovLab at UC Irvine, and in summer 2026 I’ll be starting a Marie Skłodowska-Curie postdoc at the IT University of Copenhagen."
           imageUrl: "picture.jpeg"
           imageWidth: 160
           imageHeight: 160
