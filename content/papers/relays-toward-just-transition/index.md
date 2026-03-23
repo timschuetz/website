@@ -8,7 +8,7 @@ summary: "This paper examines how a landmark citizen lawsuit against Formosa Pla
 cover:
     image: "paper1.png"
     alt: "Late Industrialism, Advocacy, and Law: Relays Toward Just Transition"
-    relative: false
+    relative: true
 editPost:
     URL: "https://www.tandfonline.com/doi/epdf/10.1080/18752160.2023.2267338?needAccess=true"
     Text: "East Asian Science, Technology and Society: An International Journal "
