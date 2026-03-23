@@ -6,7 +6,7 @@ author: ["Tim Schütz"]
 description: "A digital archive documenting the career and intellectual contributions of anthropologist George E. Marcus."
 summary: "The George E. Marcus Archive is a digital archive project documenting Marcus’s career-long efforts to rethink ethnographic research and collaborative anthropology."
 cover:
-    image: ""
+    image: "gmarchive.png"
     alt: "The George E. Marcus Archive"
     relative: true
 editPost:
