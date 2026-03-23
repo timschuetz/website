@@ -6,16 +6,15 @@ author: ["Tim Schütz"]
 description: "A digital archive documenting the career and intellectual contributions of anthropologist George E. Marcus."
 summary: "A digital archive project focused on George E. Marcus and his career-long efforts to rethink ethnographic research and collaborative anthropology."
 cover:
-    image: "gmarchive.png"
-    alt: "The George E. Marcus Archive"
-    relative: true
+  image: "gmarchive.png"
+  alt: "The George E. Marcus Archive"
+  relative: true
+  hiddenInSingle: false
 editPost:
-    URL: "https://www.centerforethnography.org/curate/pece-essay/george-e-marcus-archive"
-    Text: "UCI Center for Ethnography"
+  URL: "https://www.centerforethnography.org/curate/pece-essay/george-e-marcus-archive"
+  Text: "UCI Center for Ethnography"
 showToc: false
 disableAnchoredHeadings: false
----
-
 ---
 
 #### Description
