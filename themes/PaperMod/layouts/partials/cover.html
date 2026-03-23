@@ -1,65 +1,95 @@
-{{- with .cxt}} {{/* Apply proper context from dict */}}
-{{- if (and .Params.cover.image (not $.isHidden)) }}
-<figure class="entry-cover">
-    {{- $loading := cond $.IsSingle "eager" "lazy" }}
-    {{- $addLink := (and site.Params.cover.linkFullImages $.IsSingle) }}
-    {{- $prod := (hugo.IsProduction | or (eq site.Params.env "production")) }}
-    {{- $alt := (.Params.cover.alt | default .Params.cover.caption | plainify) }}
-    {{- $responsiveImages := (.Params.cover.responsiveImages | default site.Params.cover.responsiveImages) | default true }}
-
-    {{- $pageBundleCover := (.Resources.ByType "image").GetMatch (printf "*%s*" (.Params.cover.image)) }}
-    {{- $globalResourcesCover := (resources.ByType "image").GetMatch (printf "*%s*" (.Params.cover.image)) }}
-    {{- $cover := (or $pageBundleCover $globalResourcesCover)}}
-    {{- /* We are not using the .Param.cover.relative to decide the location of image */}}
-    {{- /* If we have the image in pageBundle or globalResources we can process the image */}}
-
-    {{- $sizes := (slice "360" "480" "720" "1080" "1500") }}
-    {{- $processableFormats := (slice "jpg" "jpeg" "png" "tif" "bmp" "gif") -}}
-    {{- if hugo.IsExtended -}}
-        {{- $processableFormats = $processableFormats | append "webp" -}}
-    {{- end -}}
-
-    {{- $imgdl := (.Params.cover.image) | absURL }}
-    {{- if $cover -}}
-        {{- $imgdl = $cover.Permalink }}
-    {{- end -}}
-
-    {{- if $addLink }}
-        <a href="{{ $imgdl }}" target="_blank" rel="noopener noreferrer">
-    {{- end }}
-
-    {{- if $cover -}}
-        {{/* i.e it is present in page bundle */}}
-        {{- if (and (in $processableFormats $cover.MediaType.SubType) ($responsiveImages) (eq $prod true)) }}
-            <img loading="{{$loading}}"
-                srcset='{{- range $size := $sizes -}}
-                            {{- if (ge $cover.Width $size) }}
-                                {{- printf "%s %s" (($cover.Resize (printf "%sx" $size)).Permalink) (printf "%sw," $size) }}
-                            {{- end }}
-                        {{- end }}
-                        {{- printf "%s %dw" ($cover.Permalink) ($cover.Width) }}'
-                src="{{ $cover.Permalink }}"
-                sizes="(min-width: 768px) 720px, 100vw"
-                width="{{ $cover.Width }}" height="{{ $cover.Height }}"
-                alt="{{ $alt }}">
-        {{- else }}{{/* Unprocessable image or responsive images disabled */}}
-            <img loading="{{ $loading }}" src="{{ $imgdl }}" alt="{{ $alt }}">
-        {{- end }}
-    {{- else }}
-        {{- /* For absolute urls and external links, no img processing here */}}
-        <img loading="{{ $loading }}" src="{{ $imgdl }}" alt="{{ $alt }}">
-    {{- end }}
-
-    {{- if $addLink }}
-        </a>
-    {{- end -}}
-
-    {{- /*  Display Caption  */}}
-    {{- if $.IsSingle }}
-        {{ with .Params.cover.caption -}}
-            <figcaption>{{ . | markdownify }}</figcaption>
-        {{- end }}
-    {{- end }}
-</figure>
-{{- end }}{{/* End image */}}
-{{- end -}}{{/* End context */ -}}
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/strict.dtd">
+<html>
+<head>
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+  <meta http-equiv="Content-Style-Type" content="text/css">
+  <title></title>
+  <meta name="Generator" content="Cocoa HTML Writer">
+  <meta name="CocoaVersion" content="2575.7">
+  <style type="text/css">
+    p.p1 {margin: 0.0px 0.0px 0.0px 0.0px; font: 12.0px Times; -webkit-text-stroke: #000000}
+    p.p2 {margin: 0.0px 0.0px 0.0px 0.0px; font: 12.0px Times; -webkit-text-stroke: #000000; min-height: 14.0px}
+    span.s1 {font-kerning: none}
+  </style>
+</head>
+<body>
+<p class="p1"><span class="s1">{{- with .cxt }} {{/* Apply proper context from dict */}}</span></p>
+<p class="p1"><span class="s1">{{- if (and .Params.cover.image (not $.isHidden)) }}</span></p>
+<p class="p1"><span class="s1">&lt;figure class="entry-cover"&gt;</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">  </span>{{- $loading := cond $.IsSingle "eager" "lazy" }}</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">  </span>{{- $addLink := (and site.Params.cover.linkFullImages $.IsSingle) }}</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">  </span>{{- $prod := (hugo.IsProduction | or (eq site.Params.env "production")) }}</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">  </span>{{- $alt := (.Params.cover.alt | default .Params.cover.caption | plainify) }}</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">  </span>{{- $responsiveImages := (.Params.cover.responsiveImages | default site.Params.cover.responsiveImages) | default true }}</span></p>
+<p class="p2"><span class="s1"></span><br></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">  </span>{{- $pageBundleCover := (.Resources.ByType "image").GetMatch (printf "*%s*" (.Params.cover.image)) }}</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">  </span>{{- $globalResourcesCover := (resources.ByType "image").GetMatch (printf "*%s*" (.Params.cover.image)) }}</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">  </span>{{- $cover := (or $pageBundleCover $globalResourcesCover) }}</span></p>
+<p class="p2"><span class="s1"></span><br></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">  </span>{{- /* We are not using .Params.cover.relative to decide the location of the image */}}</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">  </span>{{- /* If we have the image in pageBundle or globalResources we can process the image */}}</span></p>
+<p class="p2"><span class="s1"></span><br></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">  </span>{{- $sizes := (slice "360" "480" "720" "1080" "1500") }}</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">  </span>{{- $processableFormats := (slice "jpg" "jpeg" "png" "tif" "bmp" "gif") -}}</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">  </span>{{- if hugo.IsExtended -}}</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">    </span>{{- $processableFormats = $processableFormats | append "webp" -}}</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">  </span>{{- end -}}</span></p>
+<p class="p2"><span class="s1"></span><br></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">  </span>{{- $imgdl := (.Params.cover.image) | absURL }}</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">  </span>{{- if $cover -}}</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">    </span>{{- $imgdl = $cover.RelPermalink }}</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">  </span>{{- end -}}</span></p>
+<p class="p2"><span class="s1"></span><br></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">  </span>{{- if $addLink }}</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">  </span>&lt;a href="{{ $imgdl }}" target="_blank" rel="noopener noreferrer"&gt;</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">  </span>{{- end }}</span></p>
+<p class="p2"><span class="s1"></span><br></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">  </span>{{- if $cover -}} {{/* image present in page bundle or global resources */}}</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">    </span>{{- if (and (in $processableFormats $cover.MediaType.SubType) ($responsiveImages) (eq $prod true)) }}</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">    </span>&lt;img</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">      </span>loading="{{ $loading }}"</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">      </span>srcset='{{- range $size := $sizes -}}</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">        </span>{{- if ge $cover.Width (int $size) -}}</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">          </span>{{- with $cover.Resize (printf "%sx" $size) -}}</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">            </span>{{- .RelPermalink }} {{ $size }}w,</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">          </span>{{- end -}}</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">        </span>{{- end -}}</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">      </span>{{- end -}}</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">      </span>{{- $cover.RelPermalink }} {{ $cover.Width }}w'</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">      </span>sizes="(min-width: 768px) 720px, 100vw"</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">      </span>src="{{ $cover.RelPermalink }}"</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">      </span>alt="{{ $alt }}"</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">      </span>width="{{ $cover.Width }}"</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">      </span>height="{{ $cover.Height }}"</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">    </span>/&gt;</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">    </span>{{- else }} {{/* Unprocessable image or responsive images disabled */}}</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">    </span>&lt;img</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">      </span>loading="{{ $loading }}"</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">      </span>src="{{ $imgdl }}"</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">      </span>alt="{{ $alt }}"</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">    </span>/&gt;</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">    </span>{{- end }}</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">  </span>{{- else }}</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">    </span>{{- /* For absolute URLs and external links, no img processing here */}}</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">    </span>&lt;img</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">      </span>loading="{{ $loading }}"</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">      </span>src="{{ $imgdl }}"</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">      </span>alt="{{ $alt }}"</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">    </span>/&gt;</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">  </span>{{- end }}</span></p>
+<p class="p2"><span class="s1"></span><br></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">  </span>{{- if $addLink }}</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">  </span>&lt;/a&gt;</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">  </span>{{- end -}}</span></p>
+<p class="p2"><span class="s1"></span><br></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">  </span>{{- /* Display caption */}}</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">  </span>{{- if $.IsSingle }}</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">    </span>{{ with .Params.cover.caption -}}</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">    </span>&lt;figcaption&gt;{{ . | markdownify }}&lt;/figcaption&gt;</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">    </span>{{- end }}</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">  </span>{{- end }}</span></p>
+<p class="p1"><span class="s1">&lt;/figure&gt;</span></p>
+<p class="p1"><span class="s1">{{- end }}{{/* End image */}}</span></p>
+<p class="p1"><span class="s1">{{- end -}}{{/* End context */}}</span></p>
+</body>
+</html>
