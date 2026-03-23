@@ -1,77 +1,60 @@
-<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/strict.dtd">
-<html>
-<head>
-  <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
-  <meta http-equiv="Content-Style-Type" content="text/css">
-  <title></title>
-  <meta name="Generator" content="Cocoa HTML Writer">
-  <meta name="CocoaVersion" content="2575.7">
-  <style type="text/css">
-    p.p1 {margin: 0.0px 0.0px 0.0px 0.0px; font: 12.0px Times; -webkit-text-stroke: #000000}
-    p.p2 {margin: 0.0px 0.0px 0.0px 0.0px; font: 12.0px Times; -webkit-text-stroke: #000000; min-height: 14.0px}
-    span.s1 {font-kerning: none}
-  </style>
-</head>
-<body>
-<p class="p1"><span class="s1">{{- define "main" }}</span></p>
-<p class="p2"><span class="s1"></span><br></p>
-<p class="p1"><span class="s1">&lt;article class="post-single"&gt;</span></p>
-<p class="p1"><span class="s1"><span class="Apple-converted-space">  </span>&lt;header class="post-header"&gt;</span></p>
-<p class="p1"><span class="s1"><span class="Apple-converted-space">    </span>{{ partial "breadcrumbs.html" . }}</span></p>
-<p class="p1"><span class="s1"><span class="Apple-converted-space">    </span>&lt;h1 class="post-title entry-hint-parent"&gt;</span></p>
-<p class="p1"><span class="s1"><span class="Apple-converted-space">      </span>{{ .Title }}</span></p>
-<p class="p1"><span class="s1"><span class="Apple-converted-space">      </span>{{- if .Draft }}</span></p>
-<p class="p1"><span class="s1"><span class="Apple-converted-space">      </span>&lt;span class="entry-hint" title="Draft"&gt;</span></p>
-<p class="p1"><span class="s1"><span class="Apple-converted-space">        </span>&lt;svg xmlns="http://www.w3.org/2000/svg" height="42" viewBox="0 -960 960 960" fill="currentColor"&gt;</span></p>
-<p class="p1"><span class="s1"><span class="Apple-converted-space">          </span>&lt;path</span></p>
-<p class="p1"><span class="s1"><span class="Apple-converted-space">            </span>d="M160-410v-60h300v60H160Zm0-165v-60h470v60H160Zm0-165v-60h470v60H160Zm360 580v-123l221-220q9-9 20-13t22-4q12 0 23 4.5t20 13.5l37 37q9 9 13 20t4 22q0 11-4.5 22.5T862.09-380L643-160H520Zm300-263-37-37 37 37ZM580-220h38l121-122-18-19-19-18-122 121v38Zm141-141-19-18 37 37-18-19Z" /&gt;</span></p>
-<p class="p1"><span class="s1"><span class="Apple-converted-space">        </span>&lt;/svg&gt;</span></p>
-<p class="p1"><span class="s1"><span class="Apple-converted-space">      </span>&lt;/span&gt;</span></p>
-<p class="p1"><span class="s1"><span class="Apple-converted-space">      </span>{{- end }}</span></p>
-<p class="p1"><span class="s1"><span class="Apple-converted-space">    </span>&lt;/h1&gt;</span></p>
-<p class="p1"><span class="s1"><span class="Apple-converted-space">    </span>{{- if not (.Param "hideMeta") }}</span></p>
-<p class="p1"><span class="s1"><span class="Apple-converted-space">    </span>&lt;div class="post-meta"&gt;</span></p>
-<p class="p1"><span class="s1"><span class="Apple-converted-space">      </span>{{- partial "post_meta.html" . -}}</span></p>
-<p class="p1"><span class="s1"><span class="Apple-converted-space">      </span>{{- partial "translation_list.html" . -}}</span></p>
-<p class="p1"><span class="s1"><span class="Apple-converted-space">      </span>{{- partial "edit_post.html" . -}}</span></p>
-<p class="p1"><span class="s1"><span class="Apple-converted-space">      </span>{{- partial "post_canonical.html" . -}}</span></p>
-<p class="p1"><span class="s1"><span class="Apple-converted-space">    </span>&lt;/div&gt;</span></p>
-<p class="p1"><span class="s1"><span class="Apple-converted-space">    </span>{{- end }}</span></p>
-<p class="p1"><span class="s1"><span class="Apple-converted-space">  </span>&lt;/header&gt;</span></p>
-<p class="p1"><span class="s1"><span class="Apple-converted-space">  </span>{{- $isHidden := (.Param "cover.hiddenInSingle") | default (.Param "cover.hidden") | default false }}</span></p>
-<p class="p1"><span class="s1"><span class="Apple-converted-space">  </span>{{- partial "cover.html" (dict "cxt" . "IsSingle" true "isHidden" $isHidden) }}</span></p>
-<p class="p1"><span class="s1"><span class="Apple-converted-space">  </span>{{- if (.Param "ShowToc") }}</span></p>
-<p class="p1"><span class="s1"><span class="Apple-converted-space">  </span>{{- partial "toc.html" . }}</span></p>
-<p class="p1"><span class="s1"><span class="Apple-converted-space">  </span>{{- end }}</span></p>
-<p class="p2"><span class="s1"></span><br></p>
-<p class="p1"><span class="s1"><span class="Apple-converted-space">  </span>{{- if .Content }}</span></p>
-<p class="p1"><span class="s1"><span class="Apple-converted-space">  </span>&lt;div class="post-content"&gt;</span></p>
-<p class="p1"><span class="s1"><span class="Apple-converted-space">    </span>{{- if not (.Param "disableAnchoredHeadings") }}</span></p>
-<p class="p1"><span class="s1"><span class="Apple-converted-space">    </span>{{- partial "anchored_headings.html" .Content -}}</span></p>
-<p class="p1"><span class="s1"><span class="Apple-converted-space">    </span>{{- else }}{{ .Content }}{{ end }}</span></p>
-<p class="p1"><span class="s1"><span class="Apple-converted-space">  </span>&lt;/div&gt;</span></p>
-<p class="p1"><span class="s1"><span class="Apple-converted-space">  </span>{{- end }}</span></p>
-<p class="p2"><span class="s1"></span><br></p>
-<p class="p1"><span class="s1"><span class="Apple-converted-space">  </span>&lt;footer class="post-footer"&gt;</span></p>
-<p class="p1"><span class="s1"><span class="Apple-converted-space">    </span>{{- $tags := .Language.Params.Taxonomies.tag | default "tags" }}</span></p>
-<p class="p1"><span class="s1"><span class="Apple-converted-space">    </span>&lt;ul class="post-tags"&gt;</span></p>
-<p class="p1"><span class="s1"><span class="Apple-converted-space">      </span>{{- range ($.GetTerms $tags) }}</span></p>
-<p class="p1"><span class="s1"><span class="Apple-converted-space">      </span>&lt;li&gt;&lt;a href="{{ .Permalink }}"&gt;{{ .LinkTitle }}&lt;/a&gt;&lt;/li&gt;</span></p>
-<p class="p1"><span class="s1"><span class="Apple-converted-space">      </span>{{- end }}</span></p>
-<p class="p1"><span class="s1"><span class="Apple-converted-space">    </span>&lt;/ul&gt;</span></p>
-<p class="p1"><span class="s1"><span class="Apple-converted-space">    </span>{{- if (.Param "ShowPostNavLinks") }}</span></p>
-<p class="p1"><span class="s1"><span class="Apple-converted-space">    </span>{{- partial "post_nav_links.html" . }}</span></p>
-<p class="p1"><span class="s1"><span class="Apple-converted-space">    </span>{{- end }}</span></p>
-<p class="p1"><span class="s1"><span class="Apple-converted-space">    </span>{{- if (and site.Params.ShowShareButtons (ne .Params.disableShare true)) }}</span></p>
-<p class="p1"><span class="s1"><span class="Apple-converted-space">    </span>{{- partial "share_icons.html" . -}}</span></p>
-<p class="p1"><span class="s1"><span class="Apple-converted-space">    </span>{{- end }}</span></p>
-<p class="p1"><span class="s1"><span class="Apple-converted-space">  </span>&lt;/footer&gt;</span></p>
-<p class="p2"><span class="s1"></span><br></p>
-<p class="p1"><span class="s1"><span class="Apple-converted-space">  </span>{{- if (.Param "comments") }}</span></p>
-<p class="p1"><span class="s1"><span class="Apple-converted-space">  </span>{{- partial "comments.html" . }}</span></p>
-<p class="p1"><span class="s1"><span class="Apple-converted-space">  </span>{{- end }}</span></p>
-<p class="p1"><span class="s1">&lt;/article&gt;</span></p>
-<p class="p2"><span class="s1"></span><br></p>
-<p class="p1"><span class="s1">{{- end }}{{/* end main */}}</span></p>
-</body>
-</html>
+{{- define "main" }}
+
+<article class="post-single">
+  <header class="post-header">
+    {{ partial "breadcrumbs.html" . }}
+    <h1 class="post-title entry-hint-parent">
+      {{ .Title }}
+      {{- if .Draft }}
+      <span class="entry-hint" title="Draft">
+        <svg xmlns="http://www.w3.org/2000/svg" height="42" viewBox="0 -960 960 960" fill="currentColor">
+          <path
+            d="M160-410v-60h300v60H160Zm0-165v-60h470v60H160Zm0-165v-60h470v60H160Zm360 580v-123l221-220q9-9 20-13t22-4q12 0 23 4.5t20 13.5l37 37q9 9 13 20t4 22q0 11-4.5 22.5T862.09-380L643-160H520Zm300-263-37-37 37 37ZM580-220h38l121-122-18-19-19-18-122 121v38Zm141-141-19-18 37 37-18-19Z" />
+        </svg>
+      </span>
+      {{- end }}
+    </h1>
+    {{- if not (.Param "hideMeta") }}
+    <div class="post-meta">
+      {{- partial "post_meta.html" . -}}
+      {{- partial "translation_list.html" . -}}
+      {{- partial "edit_post.html" . -}}
+      {{- partial "post_canonical.html" . -}}
+    </div>
+    {{- end }}
+  </header>
+  {{- $isHidden := (.Param "cover.hiddenInSingle") | default (.Param "cover.hidden") | default false }}
+  {{- partial "cover.html" (dict "cxt" . "IsSingle" true "isHidden" $isHidden) }}
+  {{- if (.Param "ShowToc") }}
+  {{- partial "toc.html" . }}
+  {{- end }}
+
+  {{- if .Content }}
+  <div class="post-content">
+    {{- if not (.Param "disableAnchoredHeadings") }}
+    {{- partial "anchored_headings.html" .Content -}}
+    {{- else }}{{ .Content }}{{ end }}
+  </div>
+  {{- end }}
+
+  <footer class="post-footer">
+    {{- $tags := .Language.Params.Taxonomies.tag | default "tags" }}
+    <ul class="post-tags">
+      {{- range ($.GetTerms $tags) }}
+      <li><a href="{{ .Permalink }}">{{ .LinkTitle }}</a></li>
+      {{- end }}
+    </ul>
+    {{- if (.Param "ShowPostNavLinks") }}
+    {{- partial "post_nav_links.html" . }}
+    {{- end }}
+    {{- if (and site.Params.ShowShareButtons (ne .Params.disableShare true)) }}
+    {{- partial "share_icons.html" . -}}
+    {{- end }}
+  </footer>
+
+  {{- if (.Param "comments") }}
+  {{- partial "comments.html" . }}
+  {{- end }}
+</article>
+
+{{- end }}{{/* end main */}}
