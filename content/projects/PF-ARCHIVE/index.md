@@ -1,6 +1,6 @@
 ---
-title: "Governing PFAS under Climate Change: Data Infrastructure Development and Integration in Denmark"
-date: 2026-08-15
+title: "Governing PFAS under Climate Change: Data Infrastructure Development and Integration in Denmark [PF-ARCHIVE]"
+date: 2026-03-30
 tags: ["PFAS","Denmark","climate change","knowledge infrastructure","STS"]
 author: ["Tim Schütz"]
 description: "An ethnographic study of how climate change intensifies PFAS pollution in Denmark and how emerging data infrastructures shape its governance across science, policy, and coastal communities."
