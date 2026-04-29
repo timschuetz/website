@@ -22,8 +22,6 @@ Kubitschko, Sebastian and Tim Schütz. (2017). [Humanitarian media interventions
 
 ##### Book Chapters
 
-(forthcoming). Korean translation of Data Activism and Petro-Public Knowledge "Across Borders". 
-
 Fortun, Kim, Mike Fortun, Angela Hitomi Skye Crandall Okune, Tim Schütz, Shan-Ya Su. (2021). [Civic Community Archiving with the Platform for Experimental Collaborative Ethnography: Double Binds and Design Challenges](http://centerforethnography.org/sites/default/files/artifacts/media/pdf/516458_1_en_3_chapter_onlinepdf_1.pdf). *HCI International 2021 Proceedings*.
 
 Schütz, Tim. 2021. [Archiving for the Anthropocene: Notes from the Field Campus](https://smartstore.naver.com/imadesignstore/products/5310169227). *Dear Amazon – On the Anthropocene 디어 아마존—인류세에 관하여*. Exhibition Catalogue. Ilmin Museum for Art, Seoul.
@@ -36,7 +34,7 @@ Schütz, Tim. (2019). [Humanitäre Medieninterventionen. Digitale Infrastruktur 
 
 ##### Public Writing
 
-Fisher, Margaux and Tim Schütz. (2026). Documenting Procedural Injustice: Archival Tactics. 4S Backchannels. https://4sonline.org/news_manager.php?page=43936. 
+Fisher, Margaux and Tim Schütz. (2026). [Documenting Procedural Injustice: Archival Tactics](https://4sonline.org/news_manager.php?page=43936). *4S Backchannels*, April 27. 
 
 Khandekar, Aalok, Clément Dréano, Noela Invernizzi, Ali Kenner, Duygu Kaşdoğan, Grant Jun Otsuki, Angela Okune, Sujatha Raman, Tim Schütz, Federico Vasen, A N Windle, Emily York. (2026). [The Difference—and Promise—of ESTS](https://estsjournal.org/index.php/ests/article/view/3335). *Engaging Science, Technology, and Society*, 11(3).
 
