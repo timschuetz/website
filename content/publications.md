@@ -36,9 +36,11 @@ Schütz, Tim. (2019). [Humanitäre Medieninterventionen. Digitale Infrastruktur 
 
 ##### Public Writing
 
+Fisher, Margaux and Tim Schütz. (2026). Documenting Procedural Injustice: Archival Tactics. 4S Backchannels. https://4sonline.org/news_manager.php?page=43936. 
+
 Khandekar, Aalok, Clément Dréano, Noela Invernizzi, Ali Kenner, Duygu Kaşdoğan, Grant Jun Otsuki, Angela Okune, Sujatha Raman, Tim Schütz, Federico Vasen, A N Windle, Emily York. (2026). [The Difference—and Promise—of ESTS](https://estsjournal.org/index.php/ests/article/view/3335). *Engaging Science, Technology, and Society*, 11(3).
 
-Schütz, Tim. 2024. [Digital Archiving for Just Transitions](https://taiwaninsight.org/2024/05/03/digital-archiving-for-just-transitions/). *Taiwan Insight*. May 3. 
+Schütz, Tim. (2024). [Digital Archiving for Just Transitions](https://taiwaninsight.org/2024/05/03/digital-archiving-for-just-transitions/). *Taiwan Insight*. May 3. 
 
 Kenner, Ali, Clément Dréano, Noela Invernizzi, Duygu Kaşdoğan, Aalok Khandekar, Angela Okune, Grant Jun Otsuki, Sujatha Raman, Tim Schütz, Federico Vasen, and Amanda Windle. (2024). [Caring for Scholarship in Transition](https://estsjournal.org/index.php/ests/article/view/2623) _Engaging Science, Technology, and Society_, 9(3).
 
