@@ -58,13 +58,13 @@ params:
     profileMode:
           enabled: true
           title: Tim Schütz
-          subtitle: "I am a social scientist studying **PFAS contamination, environmental data infrastructures, and the public life of science and technology**.
+          subtitle: "<p>I am a social scientist studying <strong>PFAS contamination, environmental data infrastructures, and the public life of science and technology</strong>.</p>
 
-My research examines how data becomes evidence and public knowledge, how infrastructures organize relations among experts, institutions, and affected communities, and how collaborative forms of inquiry can be built around complex and contested problems.
+<p>My research examines how data becomes evidence and public knowledge, how infrastructures organize relations among experts, institutions, and affected communities, and how collaborative forms of inquiry can be built around complex and contested problems.</p>
 
-I am currently a Marie Skłodowska-Curie Postdoctoral Fellow at the IT University of Copenhagen’s Center for Climate IT, where I study PFAS in Denmark in collaboration with scientists at the Danish PFAS Research and Delivery Center. One focus of this work is how changing climatic conditions—including flooding and extreme heat—reshape PFAS exposure, mobility, and governance.
+<p>I am currently a Marie Skłodowska-Curie Postdoctoral Fellow at the IT University of Copenhagen’s Center for Climate IT, where I study PFAS in Denmark in collaboration with scientists at the Danish PFAS Research and Delivery Center. One focus of this work is how changing climatic conditions—including flooding and extreme heat—reshape PFAS exposure, mobility, and governance.</p>
 
-More broadly, I work on data, digital infrastructures, environmental justice, digital cultures, and changing relations between science, technology, and publics. Alongside my ethnographic research, I design and develop digital archives, research platforms, and other forms of public-facing scholarship."
+<p>More broadly, I work on data, digital infrastructures, environmental justice, digital cultures, and changing relations between science, technology, and publics. Alongside my ethnographic research, I design and develop digital archives, research platforms, and other forms of public-facing scholarship.</p>"
           imageUrl: "picture.jpeg"
           imageWidth: 160
           imageHeight: 160
