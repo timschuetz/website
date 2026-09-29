@@ -6,7 +6,7 @@ hidemeta: true
 description: "About"
 ---
 
-I am a social scientist working on **data, digital infrastructures, and the public life of science and technology**. Across my research, I ask how data becomes evidence and public knowledge, how infrastructures organize relations among experts, institutions, and affected communities, and how collaborative forms of inquiry can be built around complex and contested problems.
+I am a social scientist working on data, digital infrastructures, and the public life of science and technology. Across my research, I ask how data becomes evidence and public knowledge, how infrastructures organize relations among experts, institutions, and affected communities, and how collaborative forms of inquiry can be built around complex and contested problems.
 
 Much of my work has focused on environmental science and environmental justice, but these questions also lead me into broader areas of digital culture, research infrastructure, expertise, participation, and public life. I am particularly interested in projects that bring ethnographic research into dialogue with scientific practice, technical systems, and collaborative forms of knowledge production.
 
@@ -19,8 +19,6 @@ A related strand of my work focuses on research infrastructures and public-facin
 I received my PhD in Anthropology from the [University of California, Irvine](https://www.anthropology.uci.edu/). My dissertation, *Archival Designs and the Informating of Environmentalism*, examined the role of environmental data and digital archives in responses to expanding plastics and petrochemical production in the United States, Taiwan, and Vietnam.
 
 Since 2020, I have co-developed the [Formosa Plastics Global Archive](https://disaster-sts-network.org/content/formosa-plastics-global-archive-%E5%8F%B0%E7%81%A3%E5%A1%91%E8%86%A0%E6%AA%94%E6%A1%88%E9%A4%A8/essay), a collaborative digital research platform supporting a transnational network of researchers and advocates studying the Formosa Plastics Group. This work has shaped my broader interest in how digital infrastructures can support sustained research collaboration and make environmental knowledge more accessible, connected, and reusable.
-
-My research and teaching more generally examine how data moves across scientific fields, becomes evidence in regulatory and legal settings, and provides shared points of reference for public action. Rather than treating data as a finished representation of the world, I am interested in the practices, infrastructures, and epistemic commitments through which it is produced and acquires analytical, political, and public significance.
 
 I grew up in Germany and studied Media, Communication, and Cultural Research in Bremen and Istanbul before completing an MA in Science and Technology Studies in Frankfurt. I have also lived in Iceland and carried out two years of ethnographic field research in Taiwan.
 
