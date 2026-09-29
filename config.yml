@@ -58,9 +58,7 @@ params:
     profileMode:
           enabled: true
           title: Tim Schütz
-          subtitle: "## Landing page
-
-I am a social scientist studying **PFAS contamination, environmental data infrastructures, and the public life of science and technology**.
+          subtitle: "I am a social scientist studying **PFAS contamination, environmental data infrastructures, and the public life of science and technology**.
 
 My research examines how data becomes evidence and public knowledge, how infrastructures organize relations among experts, institutions, and affected communities, and how collaborative forms of inquiry can be built around complex and contested problems.
 
