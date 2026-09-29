@@ -58,7 +58,21 @@ params:
     profileMode:
           enabled: true
           title: Tim Schütz
-          subtitle: "https://4sonline.org/current_officers_and_council.php"
+          subtitle: "<p style="margin-bottom: 1em;">
+I am a social scientist studying <strong>PFAS contamination, environmental data infrastructures, and the public life of science and technology</strong>.
+</p>
+
+<p style="margin-bottom: 1em;">
+My research examines how data becomes evidence and public knowledge, how infrastructures organize relations among experts, institutions, and affected communities, and how collaborative forms of inquiry can be built around complex and contested problems.
+</p>
+
+<p style="margin-bottom: 1em;">
+I am currently a Marie Skłodowska-Curie Postdoctoral Fellow at the IT University of Copenhagen’s Center for Climate IT, where I study PFAS in Denmark in collaboration with scientists at the Danish PFAS Research and Delivery Center.
+</p>
+
+<p>
+More broadly, I work on environmental data and justice, digital cultures, research infrastructures, and public-facing scholarship.
+</p>"
           imageUrl: "picture.jpeg"
           imageWidth: 160
           imageHeight: 160
